@@ -6,24 +6,21 @@ Thank you for your interest! This repo is a curated collection of emotion perfor
 
 1. **Fork** this repository
 2. **Create a branch**: `git checkout -b add-emotion-name`
-3. **Add your direction** to `data/emotions.json` and regenerate the READMEs with `npm run build`
+3. **Add your direction** as a new entry under the right family in `README.md` (and `README_zh.md`)
 4. **Follow the format** below
 5. **Submit a Pull Request** with a clear description
 
 ## Direction Format
 
-Each direction needs:
+```markdown
+### N. Emotion Name
 
-```json
-{
-  "name": "Emotion Name",
-  "family": "Joy | Surprise | Fear | Anger | Sadness | Disgust | Social | Drive | Physical",
-  "intensity": "Subtle | Medium | Explosive",
-  "cue": "Short dramatic cue (3-6 words)",
-  "prompt": "Visible acting behavior only: eyes, brows, mouth, breath, shoulders — in temporal order.",
-  "aliases": "space separated search words",
-  "videoSrc": "videos/NN-emotion-name.mp4"
-}
+> Visible acting behavior only: eyes, brows, mouth, breath, shoulders — in temporal order.
+
+**Family:** Joy | Surprise | Fear | Anger | Sadness | Disgust | Social | Drive | Physical · **Intensity:** Subtle | Medium | Explosive · **Cue:** short dramatic cue
+**Aliases:** space separated search words
+
+🎬 [video link] · [Try on NeoSpark]
 ```
 
 ## Rules

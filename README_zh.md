@@ -78,7 +78,6 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 - [社交 Social](#social)
 - [驱动 Drive](#drive)
 - [生理 Physical](#physical)
-- [结构化数据](#结构化数据)
 - [来源与致谢](#来源与致谢)
 - [参与贡献](#参与贡献)
 - [许可证](#许可证)
@@ -437,10 +436,6 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 🎬 点击封面播放表演视频 · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=22-exhaustion&ref=ai-video-emotion-guide)
 
 ---
-
-## 结构化数据
-
-全部 25 条指令的机器可读版本（name / family / intensity / cue / prompt / aliases / 视频地址）在 [`data/emotions.json`](data/emotions.json)，方便接入你自己的工作流。
 
 ## 视频说明
 

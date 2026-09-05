@@ -78,7 +78,6 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 - [Social](#social)
 - [Drive](#drive)
 - [Physical](#physical)
-- [Structured Data](#structured-data)
 - [Source & Credits](#source--credits)
 - [Contributing](#contributing)
 - [License](#license)
@@ -437,10 +436,6 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 🎬 Click the cover to play the performance video · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=22-exhaustion&ref=ai-video-emotion-guide)
 
 ---
-
-## Structured Data
-
-Machine-readable version of all 25 directions (name / family / intensity / cue / prompt / aliases / video URL) in [`data/emotions.json`](data/emotions.json) — ready for your own pipeline.
 
 ## About the Videos
 
