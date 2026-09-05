@@ -67,6 +67,40 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ---
 
+## 在 NeoSpark 上生成
+
+**[NeoSpark](https://useneospark.com/?ref=ai-video-emotion-guide)** 是一站式 AI 生成平台：一个账号同时使用主流图像与视频模型（含 Seedance 级视频模型），按量计费，无需为每个模型单独订阅。
+
+- 🌐 平台：[platform.useneospark.com](https://platform.useneospark.com/)
+- 📚 提示词库：[useneospark.com/prompt-lib](https://useneospark.com/prompt-lib?ref=ai-video-emotion-guide)
+- 💰 定价：[useneospark.com/pricing](https://useneospark.com/pricing?ref=ai-video-emotion-guide)
+- ⌨️ 命令行工具：[neospark-imagegen-cli](https://github.com/useneospark/neospark-imagegen-cli)（支持 Claude Code / Codex / OpenClaw 技能安装）
+
+### 获取 API Key
+
+需要通过 API 或 CLI 生成时，先注册 NeoSpark 账号并创建 API Key：
+
+1. 打开 [NeoSpark](https://useneospark.com/)，注册 / 登录。
+2. 在工作台点击左下角头像，打开菜单。
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-menu.png" alt="Open user menu" width="360">
+3. 选择 **Profile** 进入个人页，在 Quick Actions 区域点击 **API KEYS**。
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-profile-apikeys.png" alt="API Keys quick action" width="360">
+4. 在 API Keys 页面点击 **+ CREATE**。
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-apikeys-list.png" alt="API Keys list" width="360">
+5. 输入 Key 名称（如 `emotion-direction`），可选过期时间，点击 **CREATE**。
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-create-key-form.png" alt="Create API Key form" width="360">
+6. 原始 Key 只显示一次，点击 **COPY** 并妥善保存。
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-create-key-result.png" alt="Copy API Key" width="360">
+
+> API Key 以 `np_` 开头。丢失无法找回，只能重新创建。
+
+---
+
 ## 目录
 
 - 😄 [喜悦 Joy](#joy)

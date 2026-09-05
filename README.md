@@ -67,6 +67,40 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ---
 
+## Generate on NeoSpark
+
+**[NeoSpark](https://useneospark.com/?ref=ai-video-emotion-guide)** is an all-in-one AI generation platform: one account for mainstream image and video models (Seedance-class video included), pay-as-you-go, no per-model subscriptions.
+
+- 🌐 Platform: [platform.useneospark.com](https://platform.useneospark.com/)
+- 📚 Prompt library: [useneospark.com/prompt-lib](https://useneospark.com/prompt-lib?ref=ai-video-emotion-guide)
+- 💰 Pricing: [useneospark.com/pricing](https://useneospark.com/pricing?ref=ai-video-emotion-guide)
+- ⌨️ CLI: [neospark-imagegen-cli](https://github.com/useneospark/neospark-imagegen-cli) (skills for Claude Code / Codex / OpenClaw)
+
+### Get your API key
+
+To generate via API or CLI, sign up for NeoSpark and create an API key:
+
+1. Go to [NeoSpark](https://useneospark.com/) and sign up / log in.
+2. In the workspace, click your avatar at the bottom-left to open the menu.
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-menu.png" alt="Open user menu" width="360">
+3. Select **Profile**, then click **API KEYS** in the Quick Actions section.
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-profile-apikeys.png" alt="API Keys quick action" width="360">
+4. On the API Keys page, click **+ CREATE**.
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-apikeys-list.png" alt="API Keys list" width="360">
+5. Enter a name for the key (e.g. `emotion-direction`), optionally set an expiration, then click **CREATE**.
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-create-key-form.png" alt="Create API Key form" width="360">
+6. The raw key is shown only once. Click **COPY** and store it securely.
+
+   <img src="https://raw.githubusercontent.com/useneospark/neospark-imagegen-cli/main/assets/neospark-create-key-result.png" alt="Copy API Key" width="360">
+
+> The API key starts with `np_`. If lost, you must create a new one.
+
+---
+
 ## Table of Contents
 
 - 😄 [Joy](#joy)
