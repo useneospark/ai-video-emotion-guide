@@ -1,0 +1,36 @@
+{
+  "name": "awesome-seedance-emotion-direction",
+  "version": "1.0.0",
+  "description": "25 copy-paste emotion performance directions for AI video, powered by NeoSpark",
+  "scripts": {
+    "build": "node scripts/build-readme.js",
+    "lint": "markdownlint README.md README_zh.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/useneospark/awesome-seedance-emotion-direction.git"
+  },
+  "keywords": [
+    "seedance",
+    "seedance-2.5",
+    "emotion-direction",
+    "ai-video",
+    "ai-video-generation",
+    "video-prompts",
+    "prompt-engineering",
+    "acting-direction",
+    "performance-prompts",
+    "awesome",
+    "awesome-list",
+    "neospark"
+  ],
+  "author": "NeoSpark Labs",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/useneospark/awesome-seedance-emotion-direction/issues"
+  },
+  "homepage": "https://useneospark.com/prompt-lib?ref=awesome-seedance-emotion-direction",
+  "devDependencies": {
+    "markdownlint-cli": "^0.41.0"
+  }
+}
