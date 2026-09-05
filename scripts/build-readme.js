@@ -8,6 +8,8 @@ const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'emotions.json')
 const REPO = 'ai-video-emotion-guide';
 const REF = `ref=${REPO}`;
 const RAW = `https://raw.githubusercontent.com/useneospark/${REPO}/main`;
+// raw.githubusercontent serves mp4 as application/octet-stream (won't play); jsDelivr serves video/mp4
+const CDN = `https://cdn.jsdelivr.net/gh/useneospark/${REPO}@main`;
 
 const FAMILY_ORDER = ['Joy', 'Surprise', 'Fear', 'Anger', 'Sadness', 'Disgust', 'Social', 'Drive', 'Physical'];
 const FAMILY_ZH = {
@@ -36,7 +38,7 @@ function entryEn(e, i) {
   return `### ${i + 1}. ${e.name}
 
 <p align="center">
-  <video src="${RAW}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
+  <video src="${CDN}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
 </p>
 
 > ${e.prompt}
@@ -53,7 +55,7 @@ function entryZh(e, i) {
   return `### ${i + 1}. ${NAME_ZH[e.name] || e.name}（${e.name}）
 
 <p align="center">
-  <video src="${RAW}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
+  <video src="${CDN}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
 </p>
 
 > ${e.prompt}
