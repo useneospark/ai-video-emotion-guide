@@ -35,12 +35,16 @@ function entryEn(e, i) {
   const s = slug(e);
   return `### ${i + 1}. ${e.name}
 
+<p align="center">
+  <video src="${RAW}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
+</p>
+
 > ${e.prompt}
 
 **Family:** ${e.family} · **Intensity:** ${e.intensity} · **Cue:** ${e.cue}
 **Aliases:** ${e.aliases}
 
-🎬 [Watch performance video](${videoFile(e)}) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
+🎬 [Video file](${videoFile(e)}) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
 `;
 }
 
@@ -48,12 +52,16 @@ function entryZh(e, i) {
   const s = slug(e);
   return `### ${i + 1}. ${NAME_ZH[e.name] || e.name}（${e.name}）
 
+<p align="center">
+  <video src="${RAW}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
+</p>
+
 > ${e.prompt}
 
 **情绪族：** ${FAMILY_ZH[e.family]} · **强度：** ${INTENSITY_ZH[e.intensity]} · **表演线索：** ${e.cue}
 **检索别名：** ${e.aliases}
 
-🎬 [观看表演视频](${videoFile(e)}) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
+🎬 [视频文件](${videoFile(e)}) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
 `;
 }
 
@@ -83,7 +91,7 @@ function build(lang) {
     licenseBody: '[CC BY 4.0](LICENSE) — 可自由分享与改编，需署名。',
     toc: '目录',
     videos: '视频说明',
-    videosBody: '每个条目链接到仓库内 [`videos/`](videos/) 中的 mp4 参考表演（约 6.6MB，全部离线可用）。GitHub 上点击即可播放。',
+    videosBody: '每个条目在 README 中内嵌播放（mp4 + 首帧封面）。原始文件在 [`videos/`](videos/)（约 6.6MB，全部离线可用），封面图在 [`assets/posters/`](assets/posters/)。',
     other: '其他语言',
   } : {
     title: 'The Complete AI Video Emotion Direction Guide',
@@ -109,7 +117,7 @@ function build(lang) {
     licenseBody: '[CC BY 4.0](LICENSE) — free to share and adapt with attribution.',
     toc: 'Table of Contents',
     videos: 'About the Videos',
-    videosBody: 'Each entry links to an mp4 reference performance inside [`videos/`](videos/) (~6.6MB total, fully offline). Click to play on GitHub.',
+    videosBody: 'Every entry embeds its reference performance inline (mp4 + first-frame poster). Raw files live in [`videos/`](videos/) (~6.6MB total, fully offline); posters in [`assets/posters/`](assets/posters/).',
     other: 'Languages',
   };
 

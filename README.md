@@ -88,252 +88,352 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ### 1. Joy / Laughter
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/01-joy-laughter.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/01-joy-laughter.jpg" controls muted width="480"></video>
+</p>
+
 > The eyes squeeze into crinkled slits, the mouth opens wide showing teeth, the head drops forward and tips back, and the shoulders bounce with each breath. The laugh settles into a wide lingering grin.
 
 **Family:** Joy · **Intensity:** Explosive · **Cue:** Laughter breaks loose
 **Aliases:** happy laugh excited amusement joyful
 
-🎬 [Watch performance video](videos/01-joy-laughter.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=01-joy-laughter&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/01-joy-laughter.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=01-joy-laughter&ref=ai-video-emotion-guide)
 
 ### 2. Awe / Wonder
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/15-awe.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/15-awe.jpg" controls muted width="480"></video>
+</p>
 
 > The eyes widen gradually without tension in the brow, the mouth opens little by little, the head tilts upward, and the body leans forward. The open, reverent expression never drops.
 
 **Family:** Joy · **Intensity:** Medium · **Cue:** Drawn toward wonder
 **Aliases:** awe wonder amazed inspired reverent
 
-🎬 [Watch performance video](videos/15-awe.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=15-awe&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/15-awe.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=15-awe&ref=ai-video-emotion-guide)
 
 ### 3. Relief
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/23-relief.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/23-relief.jpg" controls muted width="480"></video>
+</p>
 
 > A large visible exhale empties the chest, the eyes close, the raised eyebrows drop to neutral, and the shoulders collapse downward. One hand rises to the forehead. A small, shaky smile appears only after the breath finishes.
 
 **Family:** Joy · **Intensity:** Medium · **Cue:** Pressure finally releases
 **Aliases:** relieved safe reassured tension release
 
-🎬 [Watch performance video](videos/23-relief.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=23-relief&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/23-relief.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=23-relief&ref=ai-video-emotion-guide)
 
 
 ## Surprise
 
 ### 4. Shock
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/02-shock.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/02-shock.jpg" controls muted width="480"></video>
+</p>
+
 > The eyes snap wide with white visible above the iris, the eyebrows shoot up, the jaw drops fully open, and the head jerks back. The face freezes in that expression before a single blink.
 
 **Family:** Surprise · **Intensity:** Explosive · **Cue:** Sudden disbelief
 **Aliases:** shocked surprised disbelief stunned
 
-🎬 [Watch performance video](videos/02-shock.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=02-shock&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/02-shock.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=02-shock&ref=ai-video-emotion-guide)
 
 ### 5. Confusion
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/13-confusion.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/13-confusion.jpg" controls muted width="480"></video>
+</p>
 
 > The eyebrows become asymmetric, one raised and one lowered. The eyes search rapidly, the head tilts sharply, and the mouth hangs slightly open. The puzzled expression deepens instead of resolving.
 
 **Family:** Surprise · **Intensity:** Medium · **Cue:** Meaning will not settle
 **Aliases:** confused puzzled uncertain lost
 
-🎬 [Watch performance video](videos/13-confusion.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=13-confusion&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/13-confusion.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=13-confusion&ref=ai-video-emotion-guide)
 
 ### 6. Realization
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/14-realization.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/14-realization.jpg" controls muted width="480"></video>
+</p>
 
 > A blank thinking expression breaks as the eyes widen, the eyebrows jump, the lips part on a silent breath, and focus snaps back. A slow nod follows while the knowing, slightly stunned look holds.
 
 **Family:** Surprise · **Intensity:** Medium · **Cue:** The answer lands
 **Aliases:** realize epiphany recognition understanding
 
-🎬 [Watch performance video](videos/14-realization.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=14-realization&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/14-realization.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=14-realization&ref=ai-video-emotion-guide)
 
 
 ## Fear
 
 ### 7. Terror
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/03-terror.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/03-terror.jpg" controls muted width="480"></video>
+</p>
+
 > The eyebrows pull up and together, the eyes lock wide open without blinking, the mouth stretches open, the chin tucks back, and the chest rises and falls with fast, shallow breaths.
 
 **Family:** Fear · **Intensity:** Explosive · **Cue:** Fear refuses to release
 **Aliases:** scared fear panic horror terrified
 
-🎬 [Watch performance video](videos/03-terror.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=03-terror&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/03-terror.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=03-terror&ref=ai-video-emotion-guide)
 
 ### 8. Suspicion
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/09-suspicion.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/09-suspicion.jpg" controls muted width="480"></video>
+</p>
 
 > The chin drops while the eyes stay lifted. One eyebrow rises higher, the head turns slightly so the gaze lands sideways, and the mouth tightens at one corner. The stare holds without blinking.
 
 **Family:** Fear · **Intensity:** Subtle · **Cue:** Something does not add up
 **Aliases:** suspicious skeptical distrust wary
 
-🎬 [Watch performance video](videos/09-suspicion.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=09-suspicion&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/09-suspicion.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=09-suspicion&ref=ai-video-emotion-guide)
 
 ### 9. Anxiety
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/18-anxiety.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/18-anxiety.jpg" controls muted width="480"></video>
+</p>
 
 > The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower lip pulls between the teeth, and breathing remains shallow and quick. The hands grip together as the weight keeps shifting.
 
 **Family:** Fear · **Intensity:** Medium · **Cue:** Restlessness will not stop
 **Aliases:** anxious nervous worried restless tense
 
-🎬 [Watch performance video](videos/18-anxiety.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=18-anxiety&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/18-anxiety.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=18-anxiety&ref=ai-video-emotion-guide)
 
 
 ## Anger
 
 ### 10. Rage
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/04-rage.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/04-rage.jpg" controls muted width="480"></video>
+</p>
+
 > The eyebrows slam down and inward, the upper lip peels back from the teeth, the nostrils flare, the neck tendons tighten, and the head pushes forward. The snarl holds as hard breaths move through the nose.
 
 **Family:** Anger · **Intensity:** Explosive · **Cue:** Control breaks open
 **Aliases:** furious explosive mad anger snarl
 
-🎬 [Watch performance video](videos/04-rage.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=04-rage&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/04-rage.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=04-rage&ref=ai-video-emotion-guide)
 
 ### 11. Frustration
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/17-frustration.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/17-frustration.jpg" controls muted width="480"></video>
+</p>
 
 > The eyes clamp shut, the jaw slides from side to side, a sharp breath pushes through the nose, and the head shakes once. The head tips back as one long defeated breath leaves the tension in the face.
 
 **Family:** Anger · **Intensity:** Medium · **Cue:** Effort turns to defeat
 **Aliases:** frustrated defeated annoyed exasperated
 
-🎬 [Watch performance video](videos/17-frustration.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=17-frustration&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/17-frustration.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=17-frustration&ref=ai-video-emotion-guide)
 
 
 ## Sadness
 
 ### 12. Crying
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/06-crying.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/06-crying.jpg" controls muted width="480"></video>
+</p>
+
 > The eyes and nose flush red, tears spill over the lower lid, the breath catches in visible stutters, the mouth pulls into a square shape, and the chin crumples and trembles. The shoulders begin to shake.
 
 **Family:** Sadness · **Intensity:** Explosive · **Cue:** Composure collapses
 **Aliases:** cry sob grief devastated tears
 
-🎬 [Watch performance video](videos/06-crying.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=06-crying&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/06-crying.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=06-crying&ref=ai-video-emotion-guide)
 
 ### 13. Sadness
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/19-sadness.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/19-sadness.jpg" controls muted width="480"></video>
+</p>
 
 > The inner corners of the eyebrows pull up and together, the mouth corners drag down, the chin trembles once, and the gaze sinks as the head lowers. A slow blink and hard swallow fail to change the expression.
 
 **Family:** Sadness · **Intensity:** Subtle · **Cue:** Quiet hurt
 **Aliases:** sad quiet hurt sorrow downcast
 
-🎬 [Watch performance video](videos/19-sadness.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=19-sadness&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/19-sadness.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=19-sadness&ref=ai-video-emotion-guide)
 
 ### 14. Guilt
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/20-guilt.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/20-guilt.jpg" controls muted width="480"></video>
+</p>
 
 > The mouth opens but no words come. The eyes slide down and away, the head lowers, a hard swallow moves through the throat, and one hand reaches to the back of the neck. The gaze stays on the floor.
 
 **Family:** Sadness · **Intensity:** Subtle · **Cue:** The truth weighs down
 **Aliases:** guilty remorse regret ashamed sorry
 
-🎬 [Watch performance video](videos/20-guilt.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=20-guilt&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/20-guilt.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=20-guilt&ref=ai-video-emotion-guide)
 
 
 ## Disgust
 
 ### 15. Disgust
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/05-disgust.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/05-disgust.jpg" controls muted width="480"></video>
+</p>
+
 > The nose wrinkles hard and pulls the upper lip upward, the eyes squint nearly shut, the chin draws in, and the head recoils and turns away. The revolted expression holds.
 
 **Family:** Disgust · **Intensity:** Medium · **Cue:** Full recoil
 **Aliases:** revolted repelled gross distaste recoil
 
-🎬 [Watch performance video](videos/05-disgust.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=05-disgust&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/05-disgust.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=05-disgust&ref=ai-video-emotion-guide)
 
 
 ## Social
 
 ### 16. Eye Roll
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/08-eye-roll.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/08-eye-roll.jpg" controls muted width="480"></video>
+</p>
+
 > The eyes roll in a full, slow arc while the head tilts with the movement. Air pushes out through the nose, the eyes return with lowered lids, and a flat stare holds before the gaze turns away.
 
 **Family:** Social · **Intensity:** Medium · **Cue:** Patience is gone
 **Aliases:** annoyed impatient dismissive sarcastic
 
-🎬 [Watch performance video](videos/08-eye-roll.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=08-eye-roll&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/08-eye-roll.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=08-eye-roll&ref=ai-video-emotion-guide)
 
 ### 17. Flirtation
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/10-flirtation.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/10-flirtation.jpg" controls muted width="480"></video>
+</p>
 
 > The chin lowers, the gaze returns with a slow, deliberate blink, and a warm, playful half-smile grows at one corner of the mouth. The expression holds without rushing or breaking eye contact.
 
 **Family:** Social · **Intensity:** Subtle · **Cue:** Playful restraint
 **Aliases:** flirty playful charming half smile
 
-🎬 [Watch performance video](videos/10-flirtation.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=10-flirtation&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/10-flirtation.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=10-flirtation&ref=ai-video-emotion-guide)
 
 ### 18. Smug / Gloating
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/11-smug-gloating.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/11-smug-gloating.jpg" controls muted width="480"></video>
+</p>
 
 > The eyelids lower, one corner of the mouth pulls into a slow smirk, the eyebrows rise once and settle, and the chin lifts slightly. The smirk holds through unbroken eye contact.
 
 **Family:** Social · **Intensity:** Medium · **Cue:** Quiet superiority
 **Aliases:** smug gloating smirk superior proud
 
-🎬 [Watch performance video](videos/11-smug-gloating.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=11-smug-gloating&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/11-smug-gloating.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=11-smug-gloating&ref=ai-video-emotion-guide)
 
 ### 19. Embarrassment
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/21-embarrassment.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/21-embarrassment.jpg" controls muted width="480"></video>
+</p>
 
 > Color rises in the cheeks, the eyes dart down and to the side, and an awkward pressed-lip half-smile appears. The head ducks and turns away while one hand rises near the mouth. The eyes stay lowered.
 
 **Family:** Social · **Intensity:** Medium · **Cue:** Confidence folds inward
 **Aliases:** embarrassed awkward ashamed blushing
 
-🎬 [Watch performance video](videos/21-embarrassment.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=21-embarrassment&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/21-embarrassment.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=21-embarrassment&ref=ai-video-emotion-guide)
 
 ### 20. Nervous Fake Smile
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/25-nervous-fake-smile.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/25-nervous-fake-smile.jpg" controls muted width="480"></video>
+</p>
 
 > The mouth stretches into a smile while the eyes stay flat, with no crinkling at the corners. Blinking speeds up, the throat makes a hard swallow, and the gaze drops before the strained smile snaps back into place.
 
 **Family:** Social · **Intensity:** Subtle · **Cue:** Smile without warmth
 **Aliases:** nervous fake smile strained awkward masking
 
-🎬 [Watch performance video](videos/25-nervous-fake-smile.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=25-nervous-fake-smile&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/25-nervous-fake-smile.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=25-nervous-fake-smile&ref=ai-video-emotion-guide)
 
 
 ## Drive
 
 ### 21. Determination
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/16-determination.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/16-determination.jpg" controls muted width="480"></video>
+</p>
+
 > The eyes lift and lock forward, a deep breath expands the chest, the jaw sets visibly at the hinge, the eyes narrow, and the shoulders roll back. One sharp nod completes the change.
 
 **Family:** Drive · **Intensity:** Medium · **Cue:** Resolve locks in
 **Aliases:** determined resolve focused motivated
 
-🎬 [Watch performance video](videos/16-determination.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=16-determination&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/16-determination.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=16-determination&ref=ai-video-emotion-guide)
 
 ### 22. Pride
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/24-pride.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/24-pride.jpg" controls muted width="480"></video>
+</p>
 
 > The chin lifts, the chest expands, and a closed-lip smile spreads slowly and evenly. The shoulders roll back, followed by one slow, satisfied blink. The smile remains as the arms fold.
 
 **Family:** Drive · **Intensity:** Subtle · **Cue:** Satisfaction held quietly
 **Aliases:** proud satisfied achievement confidence
 
-🎬 [Watch performance video](videos/24-pride.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=24-pride&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/24-pride.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=24-pride&ref=ai-video-emotion-guide)
 
 
 ## Physical
 
 ### 23. Pain / Wince
 
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/07-pain-wince.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/07-pain-wince.jpg" controls muted width="480"></video>
+</p>
+
 > The eyes clamp shut, the teeth bare in a hard grimace, the head snaps to one side, and one shoulder rises toward the ear. The face stays contracted before easing only slightly.
 
 **Family:** Physical · **Intensity:** Explosive · **Cue:** Sharp jolt
 **Aliases:** pain hurt wince grimace jolt
 
-🎬 [Watch performance video](videos/07-pain-wince.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=07-pain-wince&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/07-pain-wince.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=07-pain-wince&ref=ai-video-emotion-guide)
 
 ### 24. Boredom
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/12-boredom.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/12-boredom.jpg" controls muted width="480"></video>
+</p>
 
 > The eyelids grow heavy, the gaze drifts and loses focus, a slow blink lasts too long, the jaw slackens, and a long sigh lowers the chest. The head sinks and the body settles into stillness.
 
 **Family:** Physical · **Intensity:** Subtle · **Cue:** Attention drains away
 **Aliases:** bored tired uninterested listless
 
-🎬 [Watch performance video](videos/12-boredom.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=12-boredom&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/12-boredom.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=12-boredom&ref=ai-video-emotion-guide)
 
 ### 25. Exhaustion
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/videos/22-exhaustion.mp4" poster="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/22-exhaustion.jpg" controls muted width="480"></video>
+</p>
 
 > The eyelids drag downward, a long blink stays closed too long, the head drifts down and lifts again slowly, the jaw hangs slack, and one long breath empties out. The eyes reopen only halfway.
 
 **Family:** Physical · **Intensity:** Subtle · **Cue:** Nothing left to give
 **Aliases:** exhausted tired drained sleepy fatigue
 
-🎬 [Watch performance video](videos/22-exhaustion.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=22-exhaustion&ref=ai-video-emotion-guide)
+🎬 [Video file](videos/22-exhaustion.mp4) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=22-exhaustion&ref=ai-video-emotion-guide)
 
 ---
 
@@ -343,7 +443,7 @@ Machine-readable version of all 25 directions (name / family / intensity / cue /
 
 ## About the Videos
 
-Each entry links to an mp4 reference performance inside [`videos/`](videos/) (~6.6MB total, fully offline). Click to play on GitHub.
+Every entry embeds its reference performance inline (mp4 + first-frame poster). Raw files live in [`videos/`](videos/) (~6.6MB total, fully offline); posters in [`assets/posters/`](assets/posters/).
 
 ## Source & Credits
 
