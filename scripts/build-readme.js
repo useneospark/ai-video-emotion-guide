@@ -38,7 +38,7 @@ function entryEn(e, i) {
   return `### ${i + 1}. ${e.name}
 
 <p align="center">
-  <video src="${CDN}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
+  <a href="${CDN}/${videoFile(e)}"><img src="${RAW}/assets/posters/${s}.jpg" alt="${e.name} performance video" width="480"></a>
 </p>
 
 > ${e.prompt}
@@ -46,7 +46,7 @@ function entryEn(e, i) {
 **Family:** ${e.family} · **Intensity:** ${e.intensity} · **Cue:** ${e.cue}
 **Aliases:** ${e.aliases}
 
-🎬 [Video file](${videoFile(e)}) · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
+🎬 Click the cover to play the performance video · [**Try this direction on NeoSpark →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
 `;
 }
 
@@ -55,7 +55,7 @@ function entryZh(e, i) {
   return `### ${i + 1}. ${NAME_ZH[e.name] || e.name}（${e.name}）
 
 <p align="center">
-  <video src="${CDN}/${videoFile(e)}" poster="${RAW}/assets/posters/${s}.jpg" controls muted width="480"></video>
+  <a href="${CDN}/${videoFile(e)}"><img src="${RAW}/assets/posters/${s}.jpg" alt="${e.name} 表演视频" width="480"></a>
 </p>
 
 > ${e.prompt}
@@ -63,7 +63,7 @@ function entryZh(e, i) {
 **情绪族：** ${FAMILY_ZH[e.family]} · **强度：** ${INTENSITY_ZH[e.intensity]} · **表演线索：** ${e.cue}
 **检索别名：** ${e.aliases}
 
-🎬 [视频文件](${videoFile(e)}) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
+🎬 点击封面播放表演视频 · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=${s}&${REF})
 `;
 }
 
@@ -93,7 +93,7 @@ function build(lang) {
     licenseBody: '[CC BY 4.0](LICENSE) — 可自由分享与改编，需署名。',
     toc: '目录',
     videos: '视频说明',
-    videosBody: '每个条目在 README 中内嵌播放（mp4 + 首帧封面）。原始文件在 [`videos/`](videos/)（约 6.6MB，全部离线可用），封面图在 [`assets/posters/`](assets/posters/)。',
+    videosBody: '每个条目显示首帧封面，点击封面在新标签页播放 mp4（jsDelivr CDN 以 video/mp4 提供）。原始文件在 [`videos/`](videos/)（约 6.6MB，离线可用），封面图在 [`assets/posters/`](assets/posters/)。注：GitHub README 只允许 user-attachments 域名的内嵌视频，仓库内 mp4 无法原生内嵌播放。',
     other: '其他语言',
   } : {
     title: 'The Complete AI Video Emotion Direction Guide',
@@ -119,7 +119,7 @@ function build(lang) {
     licenseBody: '[CC BY 4.0](LICENSE) — free to share and adapt with attribution.',
     toc: 'Table of Contents',
     videos: 'About the Videos',
-    videosBody: 'Every entry embeds its reference performance inline (mp4 + first-frame poster). Raw files live in [`videos/`](videos/) (~6.6MB total, fully offline); posters in [`assets/posters/`](assets/posters/).',
+    videosBody: 'Each entry shows a first-frame poster; clicking it plays the mp4 in a new tab (served as video/mp4 via jsDelivr CDN). Raw files live in [`videos/`](videos/) (~6.6MB, offline-ready); posters in [`assets/posters/`](assets/posters/). Note: GitHub READMEs only embed videos from the user-attachments domain, so in-repo mp4 files cannot play inline.',
     other: 'Languages',
   };
 
