@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Video Emotion Direction Guide — Gallery</title>
+<meta name="description" content="25 emotion performance directions for AI video with playable Seedance 2.5 reference performances.">
+<style>
+  :root { color-scheme: dark; --bg:#0d1117; --panel:#161b22; --line:#30363d; --text:#e6edf3; --dim:#8b949e; --accent:#bc8cff; }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: var(--bg); color: var(--text); font: 15px/1.6 -apple-system, "Segoe UI", system-ui, sans-serif; }
+  header { max-width: 1100px; margin: 0 auto; padding: 48px 20px 8px; }
+  h1 { font-size: clamp(26px, 4vw, 40px); letter-spacing: -0.02em; }
+  h1 .zh { display: block; font-size: 0.55em; color: var(--dim); font-weight: 500; margin-top: 6px; }
+  .sub { color: var(--dim); margin-top: 12px; max-width: 640px; }
+  .bar { max-width: 1100px; margin: 24px auto; padding: 0 20px; display: flex; gap: 10px; flex-wrap: wrap; }
+  .bar input, .bar select { background: var(--panel); border: 1px solid var(--line); color: var(--text); border-radius: 8px; padding: 9px 12px; font-size: 14px; }
+  .bar input { flex: 1; min-width: 220px; }
+  main { max-width: 1100px; margin: 0 auto; padding: 0 20px 60px; display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .card video { width: 100%; aspect-ratio: 16/10; background: #000; display: block; }
+  .meta { padding: 16px; }
+  .meta h2 { font-size: 17px; }
+  .idx { color: var(--accent); font-variant-numeric: tabular-nums; }
+  .tags { margin: 8px 0 10px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .tags span { font-size: 12px; color: var(--dim); border: 1px solid var(--line); border-radius: 99px; padding: 2px 9px; }
+  .prompt { font-size: 13.5px; color: var(--dim); }
+  .actions { margin-top: 14px; display: flex; gap: 10px; align-items: center; }
+  .copy { background: var(--accent); color: #0d1117; border: 0; border-radius: 8px; padding: 7px 14px; font-weight: 600; cursor: pointer; }
+  .actions a { color: var(--accent); text-decoration: none; font-size: 13.5px; }
+  footer { text-align: center; color: var(--dim); padding: 30px 20px 50px; font-size: 13px; }
+  footer a { color: var(--accent); }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<header>
+  <h1>The Complete AI Video Emotion Direction Guide<span class="zh">AI 视频情绪导演完全指南 · 在线画廊</span></h1>
+  <p class="sub">25 emotion performance directions for AI video — press play, watch the acting, copy the prompt, generate on <a href="https://useneospark.com/?ref=ai-video-emotion-guide" style="color:var(--accent)">NeoSpark</a>.</p>
+</header>
+<div class="bar">
+  <input id="q" type="search" placeholder="Search emotions or acting cues / 搜索情绪">
+  <select id="fam"><option value="">All families</option><option>Joy</option><option>Surprise</option><option>Fear</option><option>Anger</option><option>Disgust</option><option>Sadness</option><option>Physical</option><option>Social</option><option>Drive</option></select>
+  <select id="int"><option value="">All intensities</option><option>Subtle</option><option>Medium</option><option>Explosive</option></select>
+</div>
+<main id="grid">
+    <article class="card" data-family="joy" data-intensity="explosive" data-search="joy / laughter happy laugh excited amusement joyful">
+      <video controls muted loop preload="none" poster="posters/01-joy-laughter.jpg" playsinline>
+        <source src="videos/01-joy-laughter.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">01</span> Joy / Laughter</h2>
+        <p class="tags"><span>Joy</span><span>Explosive</span><span>Laughter breaks loose</span></p>
+        <p class="prompt">The eyes squeeze into crinkled slits, the mouth opens wide showing teeth, the head drops forward and tips back, and the shoulders bounce with each breath. The laugh settles into a wide lingering grin.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes squeeze into crinkled slits, the mouth opens wide showing teeth, the head drops forward and tips back, and the shoulders bounce with each breath. The laugh settles into a wide lingering grin.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=01-joy-laughter&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="surprise" data-intensity="explosive" data-search="shock shocked surprised disbelief stunned">
+      <video controls muted loop preload="none" poster="posters/02-shock.jpg" playsinline>
+        <source src="videos/02-shock.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">02</span> Shock</h2>
+        <p class="tags"><span>Surprise</span><span>Explosive</span><span>Sudden disbelief</span></p>
+        <p class="prompt">The eyes snap wide with white visible above the iris, the eyebrows shoot up, the jaw drops fully open, and the head jerks back. The face freezes in that expression before a single blink.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes snap wide with white visible above the iris, the eyebrows shoot up, the jaw drops fully open, and the head jerks back. The face freezes in that expression before a single blink.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=02-shock&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="fear" data-intensity="explosive" data-search="terror scared fear panic horror terrified">
+      <video controls muted loop preload="none" poster="posters/03-terror.jpg" playsinline>
+        <source src="videos/03-terror.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">03</span> Terror</h2>
+        <p class="tags"><span>Fear</span><span>Explosive</span><span>Fear refuses to release</span></p>
+        <p class="prompt">The eyebrows pull up and together, the eyes lock wide open without blinking, the mouth stretches open, the chin tucks back, and the chest rises and falls with fast, shallow breaths.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyebrows pull up and together, the eyes lock wide open without blinking, the mouth stretches open, the chin tucks back, and the chest rises and falls with fast, shallow breaths.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=03-terror&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="anger" data-intensity="explosive" data-search="rage furious explosive mad anger snarl">
+      <video controls muted loop preload="none" poster="posters/04-rage.jpg" playsinline>
+        <source src="videos/04-rage.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">04</span> Rage</h2>
+        <p class="tags"><span>Anger</span><span>Explosive</span><span>Control breaks open</span></p>
+        <p class="prompt">The eyebrows slam down and inward, the upper lip peels back from the teeth, the nostrils flare, the neck tendons tighten, and the head pushes forward. The snarl holds as hard breaths move through the nose.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyebrows slam down and inward, the upper lip peels back from the teeth, the nostrils flare, the neck tendons tighten, and the head pushes forward. The snarl holds as hard breaths move through the nose.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=04-rage&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="disgust" data-intensity="medium" data-search="disgust revolted repelled gross distaste recoil">
+      <video controls muted loop preload="none" poster="posters/05-disgust.jpg" playsinline>
+        <source src="videos/05-disgust.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">05</span> Disgust</h2>
+        <p class="tags"><span>Disgust</span><span>Medium</span><span>Full recoil</span></p>
+        <p class="prompt">The nose wrinkles hard and pulls the upper lip upward, the eyes squint nearly shut, the chin draws in, and the head recoils and turns away. The revolted expression holds.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The nose wrinkles hard and pulls the upper lip upward, the eyes squint nearly shut, the chin draws in, and the head recoils and turns away. The revolted expression holds.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=05-disgust&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="sadness" data-intensity="explosive" data-search="crying cry sob grief devastated tears">
+      <video controls muted loop preload="none" poster="posters/06-crying.jpg" playsinline>
+        <source src="videos/06-crying.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">06</span> Crying</h2>
+        <p class="tags"><span>Sadness</span><span>Explosive</span><span>Composure collapses</span></p>
+        <p class="prompt">The eyes and nose flush red, tears spill over the lower lid, the breath catches in visible stutters, the mouth pulls into a square shape, and the chin crumples and trembles. The shoulders begin to shake.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes and nose flush red, tears spill over the lower lid, the breath catches in visible stutters, the mouth pulls into a square shape, and the chin crumples and trembles. The shoulders begin to shake.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=06-crying&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="physical" data-intensity="explosive" data-search="pain / wince pain hurt wince grimace jolt">
+      <video controls muted loop preload="none" poster="posters/07-pain-wince.jpg" playsinline>
+        <source src="videos/07-pain-wince.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">07</span> Pain / Wince</h2>
+        <p class="tags"><span>Physical</span><span>Explosive</span><span>Sharp jolt</span></p>
+        <p class="prompt">The eyes clamp shut, the teeth bare in a hard grimace, the head snaps to one side, and one shoulder rises toward the ear. The face stays contracted before easing only slightly.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes clamp shut, the teeth bare in a hard grimace, the head snaps to one side, and one shoulder rises toward the ear. The face stays contracted before easing only slightly.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=07-pain-wince&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="social" data-intensity="medium" data-search="eye roll annoyed impatient dismissive sarcastic">
+      <video controls muted loop preload="none" poster="posters/08-eye-roll.jpg" playsinline>
+        <source src="videos/08-eye-roll.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">08</span> Eye Roll</h2>
+        <p class="tags"><span>Social</span><span>Medium</span><span>Patience is gone</span></p>
+        <p class="prompt">The eyes roll in a full, slow arc while the head tilts with the movement. Air pushes out through the nose, the eyes return with lowered lids, and a flat stare holds before the gaze turns away.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes roll in a full, slow arc while the head tilts with the movement. Air pushes out through the nose, the eyes return with lowered lids, and a flat stare holds before the gaze turns away.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=08-eye-roll&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="fear" data-intensity="subtle" data-search="suspicion suspicious skeptical distrust wary">
+      <video controls muted loop preload="none" poster="posters/09-suspicion.jpg" playsinline>
+        <source src="videos/09-suspicion.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">09</span> Suspicion</h2>
+        <p class="tags"><span>Fear</span><span>Subtle</span><span>Something does not add up</span></p>
+        <p class="prompt">The chin drops while the eyes stay lifted. One eyebrow rises higher, the head turns slightly so the gaze lands sideways, and the mouth tightens at one corner. The stare holds without blinking.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The chin drops while the eyes stay lifted. One eyebrow rises higher, the head turns slightly so the gaze lands sideways, and the mouth tightens at one corner. The stare holds without blinking.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=09-suspicion&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="social" data-intensity="subtle" data-search="flirtation flirty playful charming half smile">
+      <video controls muted loop preload="none" poster="posters/10-flirtation.jpg" playsinline>
+        <source src="videos/10-flirtation.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">10</span> Flirtation</h2>
+        <p class="tags"><span>Social</span><span>Subtle</span><span>Playful restraint</span></p>
+        <p class="prompt">The chin lowers, the gaze returns with a slow, deliberate blink, and a warm, playful half-smile grows at one corner of the mouth. The expression holds without rushing or breaking eye contact.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The chin lowers, the gaze returns with a slow, deliberate blink, and a warm, playful half-smile grows at one corner of the mouth. The expression holds without rushing or breaking eye contact.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=10-flirtation&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="social" data-intensity="medium" data-search="smug / gloating smug gloating smirk superior proud">
+      <video controls muted loop preload="none" poster="posters/11-smug-gloating.jpg" playsinline>
+        <source src="videos/11-smug-gloating.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">11</span> Smug / Gloating</h2>
+        <p class="tags"><span>Social</span><span>Medium</span><span>Quiet superiority</span></p>
+        <p class="prompt">The eyelids lower, one corner of the mouth pulls into a slow smirk, the eyebrows rise once and settle, and the chin lifts slightly. The smirk holds through unbroken eye contact.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyelids lower, one corner of the mouth pulls into a slow smirk, the eyebrows rise once and settle, and the chin lifts slightly. The smirk holds through unbroken eye contact.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=11-smug-gloating&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="physical" data-intensity="subtle" data-search="boredom bored tired uninterested listless">
+      <video controls muted loop preload="none" poster="posters/12-boredom.jpg" playsinline>
+        <source src="videos/12-boredom.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">12</span> Boredom</h2>
+        <p class="tags"><span>Physical</span><span>Subtle</span><span>Attention drains away</span></p>
+        <p class="prompt">The eyelids grow heavy, the gaze drifts and loses focus, a slow blink lasts too long, the jaw slackens, and a long sigh lowers the chest. The head sinks and the body settles into stillness.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyelids grow heavy, the gaze drifts and loses focus, a slow blink lasts too long, the jaw slackens, and a long sigh lowers the chest. The head sinks and the body settles into stillness.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=12-boredom&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="surprise" data-intensity="medium" data-search="confusion confused puzzled uncertain lost">
+      <video controls muted loop preload="none" poster="posters/13-confusion.jpg" playsinline>
+        <source src="videos/13-confusion.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">13</span> Confusion</h2>
+        <p class="tags"><span>Surprise</span><span>Medium</span><span>Meaning will not settle</span></p>
+        <p class="prompt">The eyebrows become asymmetric, one raised and one lowered. The eyes search rapidly, the head tilts sharply, and the mouth hangs slightly open. The puzzled expression deepens instead of resolving.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyebrows become asymmetric, one raised and one lowered. The eyes search rapidly, the head tilts sharply, and the mouth hangs slightly open. The puzzled expression deepens instead of resolving.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=13-confusion&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="surprise" data-intensity="medium" data-search="realization realize epiphany recognition understanding">
+      <video controls muted loop preload="none" poster="posters/14-realization.jpg" playsinline>
+        <source src="videos/14-realization.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">14</span> Realization</h2>
+        <p class="tags"><span>Surprise</span><span>Medium</span><span>The answer lands</span></p>
+        <p class="prompt">A blank thinking expression breaks as the eyes widen, the eyebrows jump, the lips part on a silent breath, and focus snaps back. A slow nod follows while the knowing, slightly stunned look holds.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="A blank thinking expression breaks as the eyes widen, the eyebrows jump, the lips part on a silent breath, and focus snaps back. A slow nod follows while the knowing, slightly stunned look holds.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=14-realization&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="joy" data-intensity="medium" data-search="awe / wonder awe wonder amazed inspired reverent">
+      <video controls muted loop preload="none" poster="posters/15-awe.jpg" playsinline>
+        <source src="videos/15-awe.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">15</span> Awe / Wonder</h2>
+        <p class="tags"><span>Joy</span><span>Medium</span><span>Drawn toward wonder</span></p>
+        <p class="prompt">The eyes widen gradually without tension in the brow, the mouth opens little by little, the head tilts upward, and the body leans forward. The open, reverent expression never drops.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes widen gradually without tension in the brow, the mouth opens little by little, the head tilts upward, and the body leans forward. The open, reverent expression never drops.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=15-awe&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="drive" data-intensity="medium" data-search="determination determined resolve focused motivated">
+      <video controls muted loop preload="none" poster="posters/16-determination.jpg" playsinline>
+        <source src="videos/16-determination.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">16</span> Determination</h2>
+        <p class="tags"><span>Drive</span><span>Medium</span><span>Resolve locks in</span></p>
+        <p class="prompt">The eyes lift and lock forward, a deep breath expands the chest, the jaw sets visibly at the hinge, the eyes narrow, and the shoulders roll back. One sharp nod completes the change.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes lift and lock forward, a deep breath expands the chest, the jaw sets visibly at the hinge, the eyes narrow, and the shoulders roll back. One sharp nod completes the change.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=16-determination&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="anger" data-intensity="medium" data-search="frustration frustrated defeated annoyed exasperated">
+      <video controls muted loop preload="none" poster="posters/17-frustration.jpg" playsinline>
+        <source src="videos/17-frustration.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">17</span> Frustration</h2>
+        <p class="tags"><span>Anger</span><span>Medium</span><span>Effort turns to defeat</span></p>
+        <p class="prompt">The eyes clamp shut, the jaw slides from side to side, a sharp breath pushes through the nose, and the head shakes once. The head tips back as one long defeated breath leaves the tension in the face.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyes clamp shut, the jaw slides from side to side, a sharp breath pushes through the nose, and the head shakes once. The head tips back as one long defeated breath leaves the tension in the face.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=17-frustration&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="fear" data-intensity="medium" data-search="anxiety anxious nervous worried restless tense">
+      <video controls muted loop preload="none" poster="posters/18-anxiety.jpg" playsinline>
+        <source src="videos/18-anxiety.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">18</span> Anxiety</h2>
+        <p class="tags"><span>Fear</span><span>Medium</span><span>Restlessness will not stop</span></p>
+        <p class="prompt">The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower lip pulls between the teeth, and breathing remains shallow and quick. The hands grip together as the weight keeps shifting.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower lip pulls between the teeth, and breathing remains shallow and quick. The hands grip together as the weight keeps shifting.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=18-anxiety&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="sadness" data-intensity="subtle" data-search="sadness sad quiet hurt sorrow downcast">
+      <video controls muted loop preload="none" poster="posters/19-sadness.jpg" playsinline>
+        <source src="videos/19-sadness.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">19</span> Sadness</h2>
+        <p class="tags"><span>Sadness</span><span>Subtle</span><span>Quiet hurt</span></p>
+        <p class="prompt">The inner corners of the eyebrows pull up and together, the mouth corners drag down, the chin trembles once, and the gaze sinks as the head lowers. A slow blink and hard swallow fail to change the expression.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The inner corners of the eyebrows pull up and together, the mouth corners drag down, the chin trembles once, and the gaze sinks as the head lowers. A slow blink and hard swallow fail to change the expression.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=19-sadness&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="sadness" data-intensity="subtle" data-search="guilt guilty remorse regret ashamed sorry">
+      <video controls muted loop preload="none" poster="posters/20-guilt.jpg" playsinline>
+        <source src="videos/20-guilt.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">20</span> Guilt</h2>
+        <p class="tags"><span>Sadness</span><span>Subtle</span><span>The truth weighs down</span></p>
+        <p class="prompt">The mouth opens but no words come. The eyes slide down and away, the head lowers, a hard swallow moves through the throat, and one hand reaches to the back of the neck. The gaze stays on the floor.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The mouth opens but no words come. The eyes slide down and away, the head lowers, a hard swallow moves through the throat, and one hand reaches to the back of the neck. The gaze stays on the floor.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=20-guilt&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="social" data-intensity="medium" data-search="embarrassment embarrassed awkward ashamed blushing">
+      <video controls muted loop preload="none" poster="posters/21-embarrassment.jpg" playsinline>
+        <source src="videos/21-embarrassment.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">21</span> Embarrassment</h2>
+        <p class="tags"><span>Social</span><span>Medium</span><span>Confidence folds inward</span></p>
+        <p class="prompt">Color rises in the cheeks, the eyes dart down and to the side, and an awkward pressed-lip half-smile appears. The head ducks and turns away while one hand rises near the mouth. The eyes stay lowered.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="Color rises in the cheeks, the eyes dart down and to the side, and an awkward pressed-lip half-smile appears. The head ducks and turns away while one hand rises near the mouth. The eyes stay lowered.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=21-embarrassment&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="physical" data-intensity="subtle" data-search="exhaustion exhausted tired drained sleepy fatigue">
+      <video controls muted loop preload="none" poster="posters/22-exhaustion.jpg" playsinline>
+        <source src="videos/22-exhaustion.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">22</span> Exhaustion</h2>
+        <p class="tags"><span>Physical</span><span>Subtle</span><span>Nothing left to give</span></p>
+        <p class="prompt">The eyelids drag downward, a long blink stays closed too long, the head drifts down and lifts again slowly, the jaw hangs slack, and one long breath empties out. The eyes reopen only halfway.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The eyelids drag downward, a long blink stays closed too long, the head drifts down and lifts again slowly, the jaw hangs slack, and one long breath empties out. The eyes reopen only halfway.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=22-exhaustion&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="joy" data-intensity="medium" data-search="relief relieved safe reassured tension release">
+      <video controls muted loop preload="none" poster="posters/23-relief.jpg" playsinline>
+        <source src="videos/23-relief.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">23</span> Relief</h2>
+        <p class="tags"><span>Joy</span><span>Medium</span><span>Pressure finally releases</span></p>
+        <p class="prompt">A large visible exhale empties the chest, the eyes close, the raised eyebrows drop to neutral, and the shoulders collapse downward. One hand rises to the forehead. A small, shaky smile appears only after the breath finishes.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="A large visible exhale empties the chest, the eyes close, the raised eyebrows drop to neutral, and the shoulders collapse downward. One hand rises to the forehead. A small, shaky smile appears only after the breath finishes.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=23-relief&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="drive" data-intensity="subtle" data-search="pride proud satisfied achievement confidence">
+      <video controls muted loop preload="none" poster="posters/24-pride.jpg" playsinline>
+        <source src="videos/24-pride.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">24</span> Pride</h2>
+        <p class="tags"><span>Drive</span><span>Subtle</span><span>Satisfaction held quietly</span></p>
+        <p class="prompt">The chin lifts, the chest expands, and a closed-lip smile spreads slowly and evenly. The shoulders roll back, followed by one slow, satisfied blink. The smile remains as the arms fold.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The chin lifts, the chest expands, and a closed-lip smile spreads slowly and evenly. The shoulders roll back, followed by one slow, satisfied blink. The smile remains as the arms fold.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=24-pride&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+    <article class="card" data-family="social" data-intensity="subtle" data-search="nervous fake smile nervous fake smile strained awkward masking">
+      <video controls muted loop preload="none" poster="posters/25-nervous-fake-smile.jpg" playsinline>
+        <source src="videos/25-nervous-fake-smile.mp4" type="video/mp4">
+      </video>
+      <div class="meta">
+        <h2><span class="idx">25</span> Nervous Fake Smile</h2>
+        <p class="tags"><span>Social</span><span>Subtle</span><span>Smile without warmth</span></p>
+        <p class="prompt">The mouth stretches into a smile while the eyes stay flat, with no crinkling at the corners. Blinking speeds up, the throat makes a hard swallow, and the gaze drops before the strained smile snaps back into place.</p>
+        <div class="actions">
+          <button class="copy" data-prompt="The mouth stretches into a smile while the eyes stay flat, with no crinkling at the corners. Blinking speeds up, the throat makes a hard swallow, and the gaze drops before the strained smile snaps back into place.">Copy prompt</button>
+          <a href="https://useneospark.com/prompt-lib?prompt=25-nervous-fake-smile&ref=ai-video-emotion-guide" target="_blank" rel="noopener">Try on NeoSpark →</a>
+        </div>
+      </div>
+    </article>
+</main>
+<footer>
+  Curated from <a href="https://seedance-emotion-direction.vercel.app/">Emotion Direction</a> ·
+  Repo <a href="https://github.com/useneospark/ai-video-emotion-guide">useneospark/ai-video-emotion-guide</a> ·
+  Powered by <a href="https://useneospark.com/?ref=ai-video-emotion-guide">NeoSpark</a>
+</footer>
+<script>
+const q = document.getElementById('q'), fam = document.getElementById('fam'), int = document.getElementById('int');
+const cards = [...document.querySelectorAll('.card')];
+function filter() {
+  const needle = q.value.trim().toLowerCase();
+  for (const c of cards) {
+    const ok = (!needle || c.dataset.search.includes(needle))
+      && (!fam.value || c.dataset.family === fam.value.toLowerCase())
+      && (!int.value || c.dataset.intensity === int.value.toLowerCase());
+    c.hidden = !ok;
+  }
+}
+q.addEventListener('input', filter); fam.addEventListener('change', filter); int.addEventListener('change', filter);
+document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', async () => {
+  try { await navigator.clipboard.writeText(b.dataset.prompt); b.textContent = 'Copied ✓'; }
+  catch { b.textContent = 'Copy failed'; }
+  setTimeout(() => b.textContent = 'Copy prompt', 1500);
+}));
+</script>
+</body>
+</html>
