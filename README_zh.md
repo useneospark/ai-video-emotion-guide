@@ -14,6 +14,7 @@
 
 <p>
   <a href="https://useneospark.com/prompt-lib?ref=ai-video-emotion-guide"><b>在 NeoSpark 上试用全部指令 →</b></a> |
+  <a href="https://useneospark.github.io/ai-video-emotion-guide/">🎬 在线视频画廊</a> |
   <a href="README.md">English</a>
 </p>
 

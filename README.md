@@ -14,6 +14,7 @@ Only visible acting: eyes, brows, mouth, breath, shoulders. No scene, camera, wa
 
 <p>
   <a href="https://useneospark.com/prompt-lib?ref=ai-video-emotion-guide"><b>Try all directions on NeoSpark →</b></a> |
+  <a href="https://useneospark.github.io/ai-video-emotion-guide/">🎬 Video Gallery</a> |
   <a href="README_zh.md">中文</a>
 </p>
 

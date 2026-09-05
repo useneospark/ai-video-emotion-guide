@@ -142,6 +142,7 @@ ${L.tagline2}</p>
 
 <p>
   <a href="https://useneospark.com/prompt-lib?${REF}"><b>${L.tryAll}</b></a> |
+  <a href="https://useneospark.github.io/${REPO}/">🎬 ${zh ? '在线视频画廊' : 'Video Gallery'}</a> |
   ${otherLink}
 </p>
 
