@@ -26,15 +26,15 @@ Only visible acting: eyes, brows, mouth, breath, shoulders. No scene, camera, wa
 
 | Family | Prompts | Try on NeoSpark |
 |----------|---------|-----------------|
-| [Joy](#joy) | 3 | [Generate](https://platform.useneospark.com/) |
-| [Surprise](#surprise) | 3 | [Generate](https://platform.useneospark.com/) |
-| [Fear](#fear) | 3 | [Generate](https://platform.useneospark.com/) |
-| [Anger](#anger) | 2 | [Generate](https://platform.useneospark.com/) |
-| [Sadness](#sadness) | 3 | [Generate](https://platform.useneospark.com/) |
-| [Disgust](#disgust) | 1 | [Generate](https://platform.useneospark.com/) |
-| [Social](#social) | 5 | [Generate](https://platform.useneospark.com/) |
-| [Drive](#drive) | 2 | [Generate](https://platform.useneospark.com/) |
-| [Physical](#physical) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😄 [Joy](#joy) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😲 [Surprise](#surprise) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😨 [Fear](#fear) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😡 [Anger](#anger) | 2 | [Generate](https://platform.useneospark.com/) |
+| 😢 [Sadness](#sadness) | 3 | [Generate](https://platform.useneospark.com/) |
+| 🤢 [Disgust](#disgust) | 1 | [Generate](https://platform.useneospark.com/) |
+| 🎭 [Social](#social) | 5 | [Generate](https://platform.useneospark.com/) |
+| 🎯 [Drive](#drive) | 2 | [Generate](https://platform.useneospark.com/) |
+| 🧍 [Physical](#physical) | 3 | [Generate](https://platform.useneospark.com/) |
 
 ---
 
@@ -69,18 +69,18 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ## Table of Contents
 
-- [Joy](#joy)
-- [Surprise](#surprise)
-- [Fear](#fear)
-- [Anger](#anger)
-- [Sadness](#sadness)
-- [Disgust](#disgust)
-- [Social](#social)
-- [Drive](#drive)
-- [Physical](#physical)
-- [Source & Credits](#source--credits)
-- [Contributing](#contributing)
-- [License](#license)
+- 😄 [Joy](#joy)
+- 😲 [Surprise](#surprise)
+- 😨 [Fear](#fear)
+- 😡 [Anger](#anger)
+- 😢 [Sadness](#sadness)
+- 🤢 [Disgust](#disgust)
+- 🎭 [Social](#social)
+- 🎯 [Drive](#drive)
+- 🧍 [Physical](#physical)
+- 📚 [Source & Credits](#source--credits)
+- 🤝 [Contributing](#contributing)
+- 📄 [License](#license)
 
 ---
 

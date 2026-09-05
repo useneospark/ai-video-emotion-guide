@@ -26,15 +26,15 @@
 
 | 情绪族 | 数量 | 在线生成 |
 |----------|---------|-----------------|
-| [喜悦 Joy](#joy) | 3 | [Generate](https://platform.useneospark.com/) |
-| [惊讶 Surprise](#surprise) | 3 | [Generate](https://platform.useneospark.com/) |
-| [恐惧 Fear](#fear) | 3 | [Generate](https://platform.useneospark.com/) |
-| [愤怒 Anger](#anger) | 2 | [Generate](https://platform.useneospark.com/) |
-| [悲伤 Sadness](#sadness) | 3 | [Generate](https://platform.useneospark.com/) |
-| [厌恶 Disgust](#disgust) | 1 | [Generate](https://platform.useneospark.com/) |
-| [社交 Social](#social) | 5 | [Generate](https://platform.useneospark.com/) |
-| [驱动 Drive](#drive) | 2 | [Generate](https://platform.useneospark.com/) |
-| [生理 Physical](#physical) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😄 [喜悦 Joy](#joy) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😲 [惊讶 Surprise](#surprise) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😨 [恐惧 Fear](#fear) | 3 | [Generate](https://platform.useneospark.com/) |
+| 😡 [愤怒 Anger](#anger) | 2 | [Generate](https://platform.useneospark.com/) |
+| 😢 [悲伤 Sadness](#sadness) | 3 | [Generate](https://platform.useneospark.com/) |
+| 🤢 [厌恶 Disgust](#disgust) | 1 | [Generate](https://platform.useneospark.com/) |
+| 🎭 [社交 Social](#social) | 5 | [Generate](https://platform.useneospark.com/) |
+| 🎯 [驱动 Drive](#drive) | 2 | [Generate](https://platform.useneospark.com/) |
+| 🧍 [生理 Physical](#physical) | 3 | [Generate](https://platform.useneospark.com/) |
 
 ---
 
@@ -69,18 +69,18 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ## 目录
 
-- [喜悦 Joy](#joy)
-- [惊讶 Surprise](#surprise)
-- [恐惧 Fear](#fear)
-- [愤怒 Anger](#anger)
-- [悲伤 Sadness](#sadness)
-- [厌恶 Disgust](#disgust)
-- [社交 Social](#social)
-- [驱动 Drive](#drive)
-- [生理 Physical](#physical)
-- [来源与致谢](#来源与致谢)
-- [参与贡献](#参与贡献)
-- [许可证](#许可证)
+- 😄 [喜悦 Joy](#joy)
+- 😲 [惊讶 Surprise](#surprise)
+- 😨 [恐惧 Fear](#fear)
+- 😡 [愤怒 Anger](#anger)
+- 😢 [悲伤 Sadness](#sadness)
+- 🤢 [厌恶 Disgust](#disgust)
+- 🎭 [社交 Social](#social)
+- 🎯 [驱动 Drive](#drive)
+- 🧍 [生理 Physical](#physical)
+- 📚 [来源与致谢](#来源与致谢)
+- 🤝 [参与贡献](#参与贡献)
+- 📄 [许可证](#许可证)
 
 ---
 
