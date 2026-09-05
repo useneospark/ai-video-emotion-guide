@@ -448,7 +448,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ## 来源与致谢
 
-内容整理自 [Emotion Direction | Performance Prompt Library](https://seedance-emotion-direction.vercel.app/)，原始页面快照保存在 [`site/`](site/) 与 [`docs/site-text.md`](docs/site-text.md)。
+内容整理自 [Emotion Direction | Performance Prompt Library](https://seedance-emotion-direction.vercel.app/)。
 
 ## 参与贡献
 

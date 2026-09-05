@@ -448,7 +448,7 @@ Each entry shows a first-frame poster; clicking it plays the mp4 in a new tab (s
 
 ## Source & Credits
 
-Curated from [Emotion Direction | Performance Prompt Library](https://seedance-emotion-direction.vercel.app/). Original page snapshot kept in [`site/`](site/) and [`docs/site-text.md`](docs/site-text.md).
+Curated from [Emotion Direction | Performance Prompt Library](https://seedance-emotion-direction.vercel.app/).
 
 ## Contributing
 
