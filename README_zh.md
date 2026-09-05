@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🎭 Awesome Seedance 情绪导演指令</h1>
+<h1>🎭 AI 视频情绪导演完全指南</h1>
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
@@ -13,7 +13,7 @@
 只描述看得见的表演：眼神、眉、嘴、呼吸、肩膀。不含场景、镜头、服装、剧情。</p>
 
 <p>
-  <a href="https://useneospark.com/prompt-lib?ref=awesome-seedance-emotion-direction"><b>在 NeoSpark 上试用全部指令 →</b></a> |
+  <a href="https://useneospark.com/prompt-lib?ref=ai-video-emotion-guide"><b>在 NeoSpark 上试用全部指令 →</b></a> |
   <a href="README.md">English</a>
 </p>
 
@@ -45,7 +45,7 @@
 
 每条指令都配有 Seedance 2.5 实际生成的表演参考视频。
 
-> 想直接生成带情绪表演的 AI 视频？ **[NeoSpark](https://useneospark.com/?ref=awesome-seedance-emotion-direction)** 支持 Seedance 等视频模型，开箱即用。
+> 想直接生成带情绪表演的 AI 视频？ **[NeoSpark](https://useneospark.com/?ref=ai-video-emotion-guide)** 支持 Seedance 等视频模型，开箱即用。
 
 ---
 
@@ -93,7 +93,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 喜悦 · **强度：** 爆发 · **表演线索：** Laughter breaks loose
 **检索别名：** happy laugh excited amusement joyful
 
-🎬 [观看表演视频](videos/01-joy-laughter.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=01-joy-laughter&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/01-joy-laughter.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=01-joy-laughter&ref=ai-video-emotion-guide)
 
 ### 2. 敬畏 / 惊叹（Awe / Wonder）
 
@@ -102,7 +102,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 喜悦 · **强度：** 中等 · **表演线索：** Drawn toward wonder
 **检索别名：** awe wonder amazed inspired reverent
 
-🎬 [观看表演视频](videos/15-awe.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=15-awe&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/15-awe.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=15-awe&ref=ai-video-emotion-guide)
 
 ### 3. 如释重负（Relief）
 
@@ -111,7 +111,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 喜悦 · **强度：** 中等 · **表演线索：** Pressure finally releases
 **检索别名：** relieved safe reassured tension release
 
-🎬 [观看表演视频](videos/23-relief.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=23-relief&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/23-relief.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=23-relief&ref=ai-video-emotion-guide)
 
 
 ## 惊讶 Surprise
@@ -123,7 +123,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 惊讶 · **强度：** 爆发 · **表演线索：** Sudden disbelief
 **检索别名：** shocked surprised disbelief stunned
 
-🎬 [观看表演视频](videos/02-shock.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=02-shock&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/02-shock.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=02-shock&ref=ai-video-emotion-guide)
 
 ### 5. 困惑（Confusion）
 
@@ -132,7 +132,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 惊讶 · **强度：** 中等 · **表演线索：** Meaning will not settle
 **检索别名：** confused puzzled uncertain lost
 
-🎬 [观看表演视频](videos/13-confusion.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=13-confusion&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/13-confusion.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=13-confusion&ref=ai-video-emotion-guide)
 
 ### 6. 恍然大悟（Realization）
 
@@ -141,7 +141,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 惊讶 · **强度：** 中等 · **表演线索：** The answer lands
 **检索别名：** realize epiphany recognition understanding
 
-🎬 [观看表演视频](videos/14-realization.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=14-realization&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/14-realization.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=14-realization&ref=ai-video-emotion-guide)
 
 
 ## 恐惧 Fear
@@ -153,7 +153,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 恐惧 · **强度：** 爆发 · **表演线索：** Fear refuses to release
 **检索别名：** scared fear panic horror terrified
 
-🎬 [观看表演视频](videos/03-terror.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=03-terror&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/03-terror.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=03-terror&ref=ai-video-emotion-guide)
 
 ### 8. 怀疑（Suspicion）
 
@@ -162,7 +162,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 恐惧 · **强度：** 细腻 · **表演线索：** Something does not add up
 **检索别名：** suspicious skeptical distrust wary
 
-🎬 [观看表演视频](videos/09-suspicion.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=09-suspicion&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/09-suspicion.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=09-suspicion&ref=ai-video-emotion-guide)
 
 ### 9. 焦虑（Anxiety）
 
@@ -171,7 +171,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 恐惧 · **强度：** 中等 · **表演线索：** Restlessness will not stop
 **检索别名：** anxious nervous worried restless tense
 
-🎬 [观看表演视频](videos/18-anxiety.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=18-anxiety&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/18-anxiety.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=18-anxiety&ref=ai-video-emotion-guide)
 
 
 ## 愤怒 Anger
@@ -183,7 +183,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 愤怒 · **强度：** 爆发 · **表演线索：** Control breaks open
 **检索别名：** furious explosive mad anger snarl
 
-🎬 [观看表演视频](videos/04-rage.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=04-rage&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/04-rage.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=04-rage&ref=ai-video-emotion-guide)
 
 ### 11. 挫败（Frustration）
 
@@ -192,7 +192,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 愤怒 · **强度：** 中等 · **表演线索：** Effort turns to defeat
 **检索别名：** frustrated defeated annoyed exasperated
 
-🎬 [观看表演视频](videos/17-frustration.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=17-frustration&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/17-frustration.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=17-frustration&ref=ai-video-emotion-guide)
 
 
 ## 悲伤 Sadness
@@ -204,7 +204,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 悲伤 · **强度：** 爆发 · **表演线索：** Composure collapses
 **检索别名：** cry sob grief devastated tears
 
-🎬 [观看表演视频](videos/06-crying.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=06-crying&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/06-crying.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=06-crying&ref=ai-video-emotion-guide)
 
 ### 13. 悲伤（Sadness）
 
@@ -213,7 +213,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 悲伤 · **强度：** 细腻 · **表演线索：** Quiet hurt
 **检索别名：** sad quiet hurt sorrow downcast
 
-🎬 [观看表演视频](videos/19-sadness.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=19-sadness&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/19-sadness.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=19-sadness&ref=ai-video-emotion-guide)
 
 ### 14. 愧疚（Guilt）
 
@@ -222,7 +222,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 悲伤 · **强度：** 细腻 · **表演线索：** The truth weighs down
 **检索别名：** guilty remorse regret ashamed sorry
 
-🎬 [观看表演视频](videos/20-guilt.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=20-guilt&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/20-guilt.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=20-guilt&ref=ai-video-emotion-guide)
 
 
 ## 厌恶 Disgust
@@ -234,7 +234,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 厌恶 · **强度：** 中等 · **表演线索：** Full recoil
 **检索别名：** revolted repelled gross distaste recoil
 
-🎬 [观看表演视频](videos/05-disgust.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=05-disgust&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/05-disgust.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=05-disgust&ref=ai-video-emotion-guide)
 
 
 ## 社交 Social
@@ -246,7 +246,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 社交 · **强度：** 中等 · **表演线索：** Patience is gone
 **检索别名：** annoyed impatient dismissive sarcastic
 
-🎬 [观看表演视频](videos/08-eye-roll.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=08-eye-roll&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/08-eye-roll.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=08-eye-roll&ref=ai-video-emotion-guide)
 
 ### 17. 调情（Flirtation）
 
@@ -255,7 +255,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 社交 · **强度：** 细腻 · **表演线索：** Playful restraint
 **检索别名：** flirty playful charming half smile
 
-🎬 [观看表演视频](videos/10-flirtation.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=10-flirtation&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/10-flirtation.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=10-flirtation&ref=ai-video-emotion-guide)
 
 ### 18. 得意 / 幸灾乐祸（Smug / Gloating）
 
@@ -264,7 +264,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 社交 · **强度：** 中等 · **表演线索：** Quiet superiority
 **检索别名：** smug gloating smirk superior proud
 
-🎬 [观看表演视频](videos/11-smug-gloating.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=11-smug-gloating&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/11-smug-gloating.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=11-smug-gloating&ref=ai-video-emotion-guide)
 
 ### 19. 尴尬（Embarrassment）
 
@@ -273,7 +273,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 社交 · **强度：** 中等 · **表演线索：** Confidence folds inward
 **检索别名：** embarrassed awkward ashamed blushing
 
-🎬 [观看表演视频](videos/21-embarrassment.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=21-embarrassment&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/21-embarrassment.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=21-embarrassment&ref=ai-video-emotion-guide)
 
 ### 20. 紧张的假笑（Nervous Fake Smile）
 
@@ -282,7 +282,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 社交 · **强度：** 细腻 · **表演线索：** Smile without warmth
 **检索别名：** nervous fake smile strained awkward masking
 
-🎬 [观看表演视频](videos/25-nervous-fake-smile.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=25-nervous-fake-smile&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/25-nervous-fake-smile.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=25-nervous-fake-smile&ref=ai-video-emotion-guide)
 
 
 ## 驱动 Drive
@@ -294,7 +294,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 驱动 · **强度：** 中等 · **表演线索：** Resolve locks in
 **检索别名：** determined resolve focused motivated
 
-🎬 [观看表演视频](videos/16-determination.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=16-determination&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/16-determination.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=16-determination&ref=ai-video-emotion-guide)
 
 ### 22. 自豪（Pride）
 
@@ -303,7 +303,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 驱动 · **强度：** 细腻 · **表演线索：** Satisfaction held quietly
 **检索别名：** proud satisfied achievement confidence
 
-🎬 [观看表演视频](videos/24-pride.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=24-pride&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/24-pride.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=24-pride&ref=ai-video-emotion-guide)
 
 
 ## 生理 Physical
@@ -315,7 +315,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 生理 · **强度：** 爆发 · **表演线索：** Sharp jolt
 **检索别名：** pain hurt wince grimace jolt
 
-🎬 [观看表演视频](videos/07-pain-wince.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=07-pain-wince&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/07-pain-wince.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=07-pain-wince&ref=ai-video-emotion-guide)
 
 ### 24. 无聊（Boredom）
 
@@ -324,7 +324,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 生理 · **强度：** 细腻 · **表演线索：** Attention drains away
 **检索别名：** bored tired uninterested listless
 
-🎬 [观看表演视频](videos/12-boredom.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=12-boredom&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/12-boredom.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=12-boredom&ref=ai-video-emotion-guide)
 
 ### 25. 精疲力尽（Exhaustion）
 
@@ -333,7 +333,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 **情绪族：** 生理 · **强度：** 细腻 · **表演线索：** Nothing left to give
 **检索别名：** exhausted tired drained sleepy fatigue
 
-🎬 [观看表演视频](videos/22-exhaustion.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=22-exhaustion&ref=awesome-seedance-emotion-direction)
+🎬 [观看表演视频](videos/22-exhaustion.mp4) · [**在 NeoSpark 上使用这段导演指令 →**](https://useneospark.com/prompt-lib?prompt=22-exhaustion&ref=ai-video-emotion-guide)
 
 ---
 
@@ -360,5 +360,5 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ---
 
 <div align="center">
-由 <a href="https://useneospark.com/?ref=awesome-seedance-emotion-direction"><b>NeoSpark</b></a> · <a href="https://platform.useneospark.com/">立即生成</a>
+由 <a href="https://useneospark.com/?ref=ai-video-emotion-guide"><b>NeoSpark</b></a> · <a href="https://platform.useneospark.com/">立即生成</a>
 </div>

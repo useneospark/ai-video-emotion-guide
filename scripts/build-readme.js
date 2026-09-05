@@ -5,7 +5,7 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'emotions.json'), 'utf8'));
 
-const REPO = 'awesome-seedance-emotion-direction';
+const REPO = 'ai-video-emotion-guide';
 const REF = `ref=${REPO}`;
 const RAW = `https://raw.githubusercontent.com/useneospark/${REPO}/main`;
 
@@ -60,7 +60,7 @@ function entryZh(e, i) {
 function build(lang) {
   const zh = lang === 'zh';
   const L = zh ? {
-    title: 'Awesome Seedance 情绪导演指令',
+    title: 'AI 视频情绪导演完全指南',
     tagline: '25 组可直接复制的 AI 视频情绪表演导演指令。',
     tagline2: '只描述看得见的表演：眼神、眉、嘴、呼吸、肩膀。不含场景、镜头、服装、剧情。',
     tryAll: '在 NeoSpark 上试用全部指令 →',
@@ -86,7 +86,7 @@ function build(lang) {
     videosBody: '每个条目链接到仓库内 [`videos/`](videos/) 中的 mp4 参考表演（约 6.6MB，全部离线可用）。GitHub 上点击即可播放。',
     other: '其他语言',
   } : {
-    title: 'Awesome Seedance Emotion Direction',
+    title: 'The Complete AI Video Emotion Direction Guide',
     tagline: '25 copy-paste emotion performance directions for AI video.',
     tagline2: 'Only visible acting: eyes, brows, mouth, breath, shoulders. No scene, camera, wardrobe, or story.',
     tryAll: 'Try all directions on NeoSpark →',

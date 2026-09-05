@@ -1,14 +1,14 @@
 {
-  "name": "awesome-seedance-emotion-direction",
+  "name": "ai-video-emotion-guide",
   "version": "1.0.0",
-  "description": "25 copy-paste emotion performance directions for AI video, powered by NeoSpark",
+  "description": "The Complete AI Video Emotion Direction Guide — 25 performance prompts with reference videos, powered by NeoSpark",
   "scripts": {
     "build": "node scripts/build-readme.js",
     "lint": "markdownlint README.md README_zh.md"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/useneospark/awesome-seedance-emotion-direction.git"
+    "url": "git+https://github.com/useneospark/ai-video-emotion-guide.git"
   },
   "keywords": [
     "seedance",
@@ -27,9 +27,9 @@
   "author": "NeoSpark Labs",
   "license": "CC-BY-4.0",
   "bugs": {
-    "url": "https://github.com/useneospark/awesome-seedance-emotion-direction/issues"
+    "url": "https://github.com/useneospark/ai-video-emotion-guide/issues"
   },
-  "homepage": "https://useneospark.com/prompt-lib?ref=awesome-seedance-emotion-direction",
+  "homepage": "https://useneospark.com/prompt-lib?ref=ai-video-emotion-guide",
   "devDependencies": {
     "markdownlint-cli": "^0.41.0"
   }
