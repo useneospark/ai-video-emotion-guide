@@ -48,7 +48,7 @@
 
 每条指令都配有 Seedance 2.5 实际生成的表演参考视频。
 
-> 想直接生成带情绪表演的 AI 视频？ **[NeoSpark](https://useneospark.com/?ref=ai-video-emotion-guide)** 支持 Seedance 等视频模型，开箱即用。
+> 想直接生成带情绪表演的 AI 视频？ **[NeoSpark](https://useneospark.com/?ref=ai-video-emotion-guide)** 开箱支持主流视频模型：Seedance 2.5 / 2.0、Wan 3.0、Kling O3、Veo Omini、Minimax H3 等。
 
 ---
 
@@ -71,7 +71,9 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ## 在 NeoSpark 上生成
 
-**[NeoSpark](https://useneospark.com/?ref=ai-video-emotion-guide)** 是一站式 AI 生成平台：一个账号同时使用主流图像与视频模型（含 Seedance 级视频模型），按量计费，无需为每个模型单独订阅。
+**[NeoSpark](https://useneospark.com/?ref=ai-video-emotion-guide)** 是一站式 AI 生成平台：一个账号同时使用主流图像与视频模型，按量计费，无需为每个模型单独订阅。
+
+**🎥 支持的视频模型：** Seedance 2.5 · Seedance 2.0（Normal / Fast / Mini）· Wan 3.0 · Minimax H3 · Veo Omini · Kling O3 等。
 
 - 🌐 平台：[platform.useneospark.com](https://platform.useneospark.com/)
 - 📚 提示词库：[useneospark.com/prompt-lib](https://useneospark.com/prompt-lib?ref=ai-video-emotion-guide)
