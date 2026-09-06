@@ -125,10 +125,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 1. Joy / Laughter
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/01-joy-laughter.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/01-joy-laughter.jpg" alt="Joy / Laughter performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/01-joy-laughter.jpg" alt="Generic prompt vs detailed performance direction — Joy / Laughter" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/01-joy-laughter.mp4"><img src="assets/comparisons/01-joy-laughter.jpg" alt="Generic prompt vs detailed performance direction — Joy / Laughter" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -142,10 +139,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 2. Awe / Wonder
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/15-awe.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/15-awe.jpg" alt="Awe / Wonder performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/02-awe-wonder.jpg" alt="Generic prompt vs detailed performance direction — Awe / Wonder" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/15-awe.mp4"><img src="assets/comparisons/02-awe-wonder.jpg" alt="Generic prompt vs detailed performance direction — Awe / Wonder" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -159,10 +153,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 3. Relief
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/23-relief.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/23-relief.jpg" alt="Relief performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/03-relief.jpg" alt="Generic prompt vs detailed performance direction — Relief" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/23-relief.mp4"><img src="assets/comparisons/03-relief.jpg" alt="Generic prompt vs detailed performance direction — Relief" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -179,10 +170,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 4. Shock
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/02-shock.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/02-shock.jpg" alt="Shock performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/04-shock.jpg" alt="Generic prompt vs detailed performance direction — Shock" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/02-shock.mp4"><img src="assets/comparisons/04-shock.jpg" alt="Generic prompt vs detailed performance direction — Shock" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -196,10 +184,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 5. Confusion
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/13-confusion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/13-confusion.jpg" alt="Confusion performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/05-confusion.jpg" alt="Generic prompt vs detailed performance direction — Confusion" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/13-confusion.mp4"><img src="assets/comparisons/05-confusion.jpg" alt="Generic prompt vs detailed performance direction — Confusion" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -213,10 +198,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 6. Realization
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/14-realization.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/14-realization.jpg" alt="Realization performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/06-realization.jpg" alt="Generic prompt vs detailed performance direction — Realization" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/14-realization.mp4"><img src="assets/comparisons/06-realization.jpg" alt="Generic prompt vs detailed performance direction — Realization" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -233,10 +215,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 7. Terror
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/03-terror.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/03-terror.jpg" alt="Terror performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/07-terror.jpg" alt="Generic prompt vs detailed performance direction — Terror" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/03-terror.mp4"><img src="assets/comparisons/07-terror.jpg" alt="Generic prompt vs detailed performance direction — Terror" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -250,10 +229,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 8. Suspicion
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/09-suspicion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/09-suspicion.jpg" alt="Suspicion performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/08-suspicion.jpg" alt="Generic prompt vs detailed performance direction — Suspicion" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/09-suspicion.mp4"><img src="assets/comparisons/08-suspicion.jpg" alt="Generic prompt vs detailed performance direction — Suspicion" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -267,10 +243,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 9. Anxiety
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/18-anxiety.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/18-anxiety.jpg" alt="Anxiety performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/09-anxiety.jpg" alt="Generic prompt vs detailed performance direction — Anxiety" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/18-anxiety.mp4"><img src="assets/comparisons/09-anxiety.jpg" alt="Generic prompt vs detailed performance direction — Anxiety" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -287,10 +260,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 10. Rage
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/04-rage.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/04-rage.jpg" alt="Rage performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/10-rage.jpg" alt="Generic prompt vs detailed performance direction — Rage" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/04-rage.mp4"><img src="assets/comparisons/10-rage.jpg" alt="Generic prompt vs detailed performance direction — Rage" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -304,10 +274,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 11. Frustration
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/17-frustration.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/17-frustration.jpg" alt="Frustration performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/11-frustration.jpg" alt="Generic prompt vs detailed performance direction — Frustration" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/17-frustration.mp4"><img src="assets/comparisons/11-frustration.jpg" alt="Generic prompt vs detailed performance direction — Frustration" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -324,10 +291,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 12. Crying
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/06-crying.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/06-crying.jpg" alt="Crying performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/12-crying.jpg" alt="Generic prompt vs detailed performance direction — Crying" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/06-crying.mp4"><img src="assets/comparisons/12-crying.jpg" alt="Generic prompt vs detailed performance direction — Crying" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -341,10 +305,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 13. Sadness
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/19-sadness.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/19-sadness.jpg" alt="Sadness performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/13-sadness.jpg" alt="Generic prompt vs detailed performance direction — Sadness" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/19-sadness.mp4"><img src="assets/comparisons/13-sadness.jpg" alt="Generic prompt vs detailed performance direction — Sadness" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -358,10 +319,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 14. Guilt
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/20-guilt.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/20-guilt.jpg" alt="Guilt performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/14-guilt.jpg" alt="Generic prompt vs detailed performance direction — Guilt" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/20-guilt.mp4"><img src="assets/comparisons/14-guilt.jpg" alt="Generic prompt vs detailed performance direction — Guilt" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -378,10 +336,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 15. Disgust
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/05-disgust.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/05-disgust.jpg" alt="Disgust performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/15-disgust.jpg" alt="Generic prompt vs detailed performance direction — Disgust" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/05-disgust.mp4"><img src="assets/comparisons/15-disgust.jpg" alt="Generic prompt vs detailed performance direction — Disgust" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -398,10 +353,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 16. Eye Roll
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/08-eye-roll.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/08-eye-roll.jpg" alt="Eye Roll performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/16-eye-roll.jpg" alt="Generic prompt vs detailed performance direction — Eye Roll" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/08-eye-roll.mp4"><img src="assets/comparisons/16-eye-roll.jpg" alt="Generic prompt vs detailed performance direction — Eye Roll" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -415,10 +367,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 17. Flirtation
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/10-flirtation.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/10-flirtation.jpg" alt="Flirtation performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/17-flirtation.jpg" alt="Generic prompt vs detailed performance direction — Flirtation" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/10-flirtation.mp4"><img src="assets/comparisons/17-flirtation.jpg" alt="Generic prompt vs detailed performance direction — Flirtation" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -432,10 +381,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 18. Smug / Gloating
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/11-smug-gloating.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/11-smug-gloating.jpg" alt="Smug / Gloating performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/18-smug-gloating.jpg" alt="Generic prompt vs detailed performance direction — Smug / Gloating" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/11-smug-gloating.mp4"><img src="assets/comparisons/18-smug-gloating.jpg" alt="Generic prompt vs detailed performance direction — Smug / Gloating" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -449,10 +395,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 19. Embarrassment
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/21-embarrassment.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/21-embarrassment.jpg" alt="Embarrassment performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/19-embarrassment.jpg" alt="Generic prompt vs detailed performance direction — Embarrassment" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/21-embarrassment.mp4"><img src="assets/comparisons/19-embarrassment.jpg" alt="Generic prompt vs detailed performance direction — Embarrassment" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -466,10 +409,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 20. Nervous Fake Smile
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/25-nervous-fake-smile.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/25-nervous-fake-smile.jpg" alt="Nervous Fake Smile performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/20-nervous-fake-smile.jpg" alt="Generic prompt vs detailed performance direction — Nervous Fake Smile" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/25-nervous-fake-smile.mp4"><img src="assets/comparisons/20-nervous-fake-smile.jpg" alt="Generic prompt vs detailed performance direction — Nervous Fake Smile" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -486,10 +426,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 21. Determination
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/16-determination.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/16-determination.jpg" alt="Determination performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/21-determination.jpg" alt="Generic prompt vs detailed performance direction — Determination" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/16-determination.mp4"><img src="assets/comparisons/21-determination.jpg" alt="Generic prompt vs detailed performance direction — Determination" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -503,10 +440,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 22. Pride
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/24-pride.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/24-pride.jpg" alt="Pride performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/22-pride.jpg" alt="Generic prompt vs detailed performance direction — Pride" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/24-pride.mp4"><img src="assets/comparisons/22-pride.jpg" alt="Generic prompt vs detailed performance direction — Pride" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -523,10 +457,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 23. Pain / Wince
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/07-pain-wince.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/07-pain-wince.jpg" alt="Pain / Wince performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/23-pain-wince.jpg" alt="Generic prompt vs detailed performance direction — Pain / Wince" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/07-pain-wince.mp4"><img src="assets/comparisons/23-pain-wince.jpg" alt="Generic prompt vs detailed performance direction — Pain / Wince" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -540,10 +471,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 24. Boredom
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/12-boredom.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/12-boredom.jpg" alt="Boredom performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/24-boredom.jpg" alt="Generic prompt vs detailed performance direction — Boredom" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/12-boredom.mp4"><img src="assets/comparisons/24-boredom.jpg" alt="Generic prompt vs detailed performance direction — Boredom" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -557,10 +485,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 ### 25. Exhaustion
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/22-exhaustion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/22-exhaustion.jpg" alt="Exhaustion performance video" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/25-exhaustion.jpg" alt="Generic prompt vs detailed performance direction — Exhaustion" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/22-exhaustion.mp4"><img src="assets/comparisons/25-exhaustion.jpg" alt="Generic prompt vs detailed performance direction — Exhaustion" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ Generic prompt · Detailed performance direction ➡️</sub></p>
 
@@ -575,7 +500,7 @@ To generate via API or CLI, sign up for NeoSpark and create an API key:
 
 ## About the Videos
 
-Each entry shows a first-frame poster; clicking it plays the mp4 in a new tab (served as video/mp4 via jsDelivr CDN). Raw files live in [`videos/`](videos/) (~6.6MB, offline-ready); posters in [`assets/posters/`](assets/posters/). Note: GitHub READMEs only embed videos from the user-attachments domain, so in-repo mp4 files cannot play inline.
+Each entry shows a side-by-side comparison (generic prompt vs detailed performance direction); clicking it plays the reference mp4 in a new tab (served as video/mp4 via jsDelivr CDN). Raw videos live in [`videos/`](videos/) (~6.6MB, offline-ready); comparison images in [`assets/comparisons/`](assets/comparisons/). Note: GitHub READMEs only embed videos from the user-attachments domain, so in-repo mp4 files cannot play inline.
 
 ## Source & Credits
 

@@ -125,10 +125,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 1. 喜悦 / 大笑（Joy / Laughter）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/01-joy-laughter.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/01-joy-laughter.jpg" alt="Joy / Laughter 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/01-joy-laughter.jpg" alt="Generic prompt vs detailed performance direction — Joy / Laughter" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/01-joy-laughter.mp4"><img src="assets/comparisons/01-joy-laughter.jpg" alt="Generic prompt vs detailed performance direction — Joy / Laughter" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -142,10 +139,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 2. 敬畏 / 惊叹（Awe / Wonder）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/15-awe.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/15-awe.jpg" alt="Awe / Wonder 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/02-awe-wonder.jpg" alt="Generic prompt vs detailed performance direction — Awe / Wonder" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/15-awe.mp4"><img src="assets/comparisons/02-awe-wonder.jpg" alt="Generic prompt vs detailed performance direction — Awe / Wonder" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -159,10 +153,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 3. 如释重负（Relief）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/23-relief.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/23-relief.jpg" alt="Relief 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/03-relief.jpg" alt="Generic prompt vs detailed performance direction — Relief" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/23-relief.mp4"><img src="assets/comparisons/03-relief.jpg" alt="Generic prompt vs detailed performance direction — Relief" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -179,10 +170,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 4. 震惊（Shock）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/02-shock.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/02-shock.jpg" alt="Shock 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/04-shock.jpg" alt="Generic prompt vs detailed performance direction — Shock" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/02-shock.mp4"><img src="assets/comparisons/04-shock.jpg" alt="Generic prompt vs detailed performance direction — Shock" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -196,10 +184,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 5. 困惑（Confusion）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/13-confusion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/13-confusion.jpg" alt="Confusion 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/05-confusion.jpg" alt="Generic prompt vs detailed performance direction — Confusion" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/13-confusion.mp4"><img src="assets/comparisons/05-confusion.jpg" alt="Generic prompt vs detailed performance direction — Confusion" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -213,10 +198,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 6. 恍然大悟（Realization）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/14-realization.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/14-realization.jpg" alt="Realization 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/06-realization.jpg" alt="Generic prompt vs detailed performance direction — Realization" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/14-realization.mp4"><img src="assets/comparisons/06-realization.jpg" alt="Generic prompt vs detailed performance direction — Realization" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -233,10 +215,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 7. 惊恐（Terror）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/03-terror.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/03-terror.jpg" alt="Terror 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/07-terror.jpg" alt="Generic prompt vs detailed performance direction — Terror" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/03-terror.mp4"><img src="assets/comparisons/07-terror.jpg" alt="Generic prompt vs detailed performance direction — Terror" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -250,10 +229,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 8. 怀疑（Suspicion）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/09-suspicion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/09-suspicion.jpg" alt="Suspicion 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/08-suspicion.jpg" alt="Generic prompt vs detailed performance direction — Suspicion" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/09-suspicion.mp4"><img src="assets/comparisons/08-suspicion.jpg" alt="Generic prompt vs detailed performance direction — Suspicion" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -267,10 +243,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 9. 焦虑（Anxiety）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/18-anxiety.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/18-anxiety.jpg" alt="Anxiety 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/09-anxiety.jpg" alt="Generic prompt vs detailed performance direction — Anxiety" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/18-anxiety.mp4"><img src="assets/comparisons/09-anxiety.jpg" alt="Generic prompt vs detailed performance direction — Anxiety" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -287,10 +260,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 10. 暴怒（Rage）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/04-rage.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/04-rage.jpg" alt="Rage 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/10-rage.jpg" alt="Generic prompt vs detailed performance direction — Rage" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/04-rage.mp4"><img src="assets/comparisons/10-rage.jpg" alt="Generic prompt vs detailed performance direction — Rage" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -304,10 +274,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 11. 挫败（Frustration）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/17-frustration.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/17-frustration.jpg" alt="Frustration 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/11-frustration.jpg" alt="Generic prompt vs detailed performance direction — Frustration" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/17-frustration.mp4"><img src="assets/comparisons/11-frustration.jpg" alt="Generic prompt vs detailed performance direction — Frustration" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -324,10 +291,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 12. 哭泣（Crying）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/06-crying.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/06-crying.jpg" alt="Crying 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/12-crying.jpg" alt="Generic prompt vs detailed performance direction — Crying" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/06-crying.mp4"><img src="assets/comparisons/12-crying.jpg" alt="Generic prompt vs detailed performance direction — Crying" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -341,10 +305,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 13. 悲伤（Sadness）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/19-sadness.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/19-sadness.jpg" alt="Sadness 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/13-sadness.jpg" alt="Generic prompt vs detailed performance direction — Sadness" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/19-sadness.mp4"><img src="assets/comparisons/13-sadness.jpg" alt="Generic prompt vs detailed performance direction — Sadness" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -358,10 +319,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 14. 愧疚（Guilt）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/20-guilt.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/20-guilt.jpg" alt="Guilt 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/14-guilt.jpg" alt="Generic prompt vs detailed performance direction — Guilt" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/20-guilt.mp4"><img src="assets/comparisons/14-guilt.jpg" alt="Generic prompt vs detailed performance direction — Guilt" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -378,10 +336,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 15. 厌恶（Disgust）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/05-disgust.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/05-disgust.jpg" alt="Disgust 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/15-disgust.jpg" alt="Generic prompt vs detailed performance direction — Disgust" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/05-disgust.mp4"><img src="assets/comparisons/15-disgust.jpg" alt="Generic prompt vs detailed performance direction — Disgust" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -398,10 +353,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 16. 翻白眼（Eye Roll）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/08-eye-roll.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/08-eye-roll.jpg" alt="Eye Roll 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/16-eye-roll.jpg" alt="Generic prompt vs detailed performance direction — Eye Roll" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/08-eye-roll.mp4"><img src="assets/comparisons/16-eye-roll.jpg" alt="Generic prompt vs detailed performance direction — Eye Roll" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -415,10 +367,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 17. 调情（Flirtation）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/10-flirtation.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/10-flirtation.jpg" alt="Flirtation 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/17-flirtation.jpg" alt="Generic prompt vs detailed performance direction — Flirtation" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/10-flirtation.mp4"><img src="assets/comparisons/17-flirtation.jpg" alt="Generic prompt vs detailed performance direction — Flirtation" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -432,10 +381,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 18. 得意 / 幸灾乐祸（Smug / Gloating）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/11-smug-gloating.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/11-smug-gloating.jpg" alt="Smug / Gloating 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/18-smug-gloating.jpg" alt="Generic prompt vs detailed performance direction — Smug / Gloating" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/11-smug-gloating.mp4"><img src="assets/comparisons/18-smug-gloating.jpg" alt="Generic prompt vs detailed performance direction — Smug / Gloating" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -449,10 +395,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 19. 尴尬（Embarrassment）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/21-embarrassment.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/21-embarrassment.jpg" alt="Embarrassment 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/19-embarrassment.jpg" alt="Generic prompt vs detailed performance direction — Embarrassment" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/21-embarrassment.mp4"><img src="assets/comparisons/19-embarrassment.jpg" alt="Generic prompt vs detailed performance direction — Embarrassment" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -466,10 +409,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 20. 紧张的假笑（Nervous Fake Smile）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/25-nervous-fake-smile.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/25-nervous-fake-smile.jpg" alt="Nervous Fake Smile 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/20-nervous-fake-smile.jpg" alt="Generic prompt vs detailed performance direction — Nervous Fake Smile" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/25-nervous-fake-smile.mp4"><img src="assets/comparisons/20-nervous-fake-smile.jpg" alt="Generic prompt vs detailed performance direction — Nervous Fake Smile" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -486,10 +426,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 21. 坚定（Determination）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/16-determination.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/16-determination.jpg" alt="Determination 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/21-determination.jpg" alt="Generic prompt vs detailed performance direction — Determination" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/16-determination.mp4"><img src="assets/comparisons/21-determination.jpg" alt="Generic prompt vs detailed performance direction — Determination" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -503,10 +440,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 22. 自豪（Pride）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/24-pride.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/24-pride.jpg" alt="Pride 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/22-pride.jpg" alt="Generic prompt vs detailed performance direction — Pride" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/24-pride.mp4"><img src="assets/comparisons/22-pride.jpg" alt="Generic prompt vs detailed performance direction — Pride" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -523,10 +457,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 23. 疼痛 / 龇牙（Pain / Wince）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/07-pain-wince.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/07-pain-wince.jpg" alt="Pain / Wince 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/23-pain-wince.jpg" alt="Generic prompt vs detailed performance direction — Pain / Wince" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/07-pain-wince.mp4"><img src="assets/comparisons/23-pain-wince.jpg" alt="Generic prompt vs detailed performance direction — Pain / Wince" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -540,10 +471,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 24. 无聊（Boredom）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/12-boredom.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/12-boredom.jpg" alt="Boredom 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/24-boredom.jpg" alt="Generic prompt vs detailed performance direction — Boredom" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/12-boredom.mp4"><img src="assets/comparisons/24-boredom.jpg" alt="Generic prompt vs detailed performance direction — Boredom" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -557,10 +485,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 ### 25. 精疲力尽（Exhaustion）
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/22-exhaustion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/22-exhaustion.jpg" alt="Exhaustion 表演视频" width="480"></a>
-</p>
-<p align="center">
-  <img src="assets/comparisons/25-exhaustion.jpg" alt="Generic prompt vs detailed performance direction — Exhaustion" width="720">
+  <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/22-exhaustion.mp4"><img src="assets/comparisons/25-exhaustion.jpg" alt="Generic prompt vs detailed performance direction — Exhaustion" width="720"></a>
 </p>
 <p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
@@ -575,7 +500,7 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 
 ## 视频说明
 
-每个条目显示首帧封面，点击封面在新标签页播放 mp4（jsDelivr CDN 以 video/mp4 提供）。原始文件在 [`videos/`](videos/)（约 6.6MB，离线可用），封面图在 [`assets/posters/`](assets/posters/)。注：GitHub README 只允许 user-attachments 域名的内嵌视频，仓库内 mp4 无法原生内嵌播放。
+每个条目显示左右对比效果图（通用提示词 vs 详细表演导演指令），点击图片在新标签页播放参考 mp4（jsDelivr CDN 以 video/mp4 提供）。原始视频在 [`videos/`](videos/)（约 6.6MB，离线可用），对比图在 [`assets/comparisons/`](assets/comparisons/)。注：GitHub README 只允许 user-attachments 域名的内嵌视频，仓库内 mp4 无法原生内嵌播放。
 
 ## 来源与致谢
 
