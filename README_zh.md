@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/cover.png" alt="NeoSpark — Your AI Creative Team" width="100%">
+
 <h1>🎭 AI 视频情绪导演完全指南</h1>
 
 <p>
@@ -125,6 +127,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/01-joy-laughter.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/01-joy-laughter.jpg" alt="Joy / Laughter 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/01-joy-laughter.jpg" alt="Generic prompt vs detailed performance direction — Joy / Laughter" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes squeeze into crinkled slits, the mouth opens wide showing teeth, the head drops forward and tips back, and the shoulders bounce with each breath. The laugh settles into a wide lingering grin.
 
@@ -138,6 +144,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/15-awe.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/15-awe.jpg" alt="Awe / Wonder 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/02-awe-wonder.jpg" alt="Generic prompt vs detailed performance direction — Awe / Wonder" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes widen gradually without tension in the brow, the mouth opens little by little, the head tilts upward, and the body leans forward. The open, reverent expression never drops.
 
@@ -151,6 +161,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/23-relief.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/23-relief.jpg" alt="Relief 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/03-relief.jpg" alt="Generic prompt vs detailed performance direction — Relief" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > A large visible exhale empties the chest, the eyes close, the raised eyebrows drop to neutral, and the shoulders collapse downward. One hand rises to the forehead. A small, shaky smile appears only after the breath finishes.
 
@@ -167,6 +181,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/02-shock.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/02-shock.jpg" alt="Shock 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/04-shock.jpg" alt="Generic prompt vs detailed performance direction — Shock" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes snap wide with white visible above the iris, the eyebrows shoot up, the jaw drops fully open, and the head jerks back. The face freezes in that expression before a single blink.
 
@@ -180,6 +198,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/13-confusion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/13-confusion.jpg" alt="Confusion 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/05-confusion.jpg" alt="Generic prompt vs detailed performance direction — Confusion" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyebrows become asymmetric, one raised and one lowered. The eyes search rapidly, the head tilts sharply, and the mouth hangs slightly open. The puzzled expression deepens instead of resolving.
 
@@ -193,6 +215,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/14-realization.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/14-realization.jpg" alt="Realization 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/06-realization.jpg" alt="Generic prompt vs detailed performance direction — Realization" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > A blank thinking expression breaks as the eyes widen, the eyebrows jump, the lips part on a silent breath, and focus snaps back. A slow nod follows while the knowing, slightly stunned look holds.
 
@@ -209,6 +235,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/03-terror.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/03-terror.jpg" alt="Terror 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/07-terror.jpg" alt="Generic prompt vs detailed performance direction — Terror" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyebrows pull up and together, the eyes lock wide open without blinking, the mouth stretches open, the chin tucks back, and the chest rises and falls with fast, shallow breaths.
 
@@ -222,6 +252,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/09-suspicion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/09-suspicion.jpg" alt="Suspicion 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/08-suspicion.jpg" alt="Generic prompt vs detailed performance direction — Suspicion" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The chin drops while the eyes stay lifted. One eyebrow rises higher, the head turns slightly so the gaze lands sideways, and the mouth tightens at one corner. The stare holds without blinking.
 
@@ -235,6 +269,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/18-anxiety.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/18-anxiety.jpg" alt="Anxiety 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/09-anxiety.jpg" alt="Generic prompt vs detailed performance direction — Anxiety" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower lip pulls between the teeth, and breathing remains shallow and quick. The hands grip together as the weight keeps shifting.
 
@@ -251,6 +289,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/04-rage.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/04-rage.jpg" alt="Rage 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/10-rage.jpg" alt="Generic prompt vs detailed performance direction — Rage" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyebrows slam down and inward, the upper lip peels back from the teeth, the nostrils flare, the neck tendons tighten, and the head pushes forward. The snarl holds as hard breaths move through the nose.
 
@@ -264,6 +306,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/17-frustration.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/17-frustration.jpg" alt="Frustration 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/11-frustration.jpg" alt="Generic prompt vs detailed performance direction — Frustration" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes clamp shut, the jaw slides from side to side, a sharp breath pushes through the nose, and the head shakes once. The head tips back as one long defeated breath leaves the tension in the face.
 
@@ -280,6 +326,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/06-crying.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/06-crying.jpg" alt="Crying 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/12-crying.jpg" alt="Generic prompt vs detailed performance direction — Crying" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes and nose flush red, tears spill over the lower lid, the breath catches in visible stutters, the mouth pulls into a square shape, and the chin crumples and trembles. The shoulders begin to shake.
 
@@ -293,6 +343,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/19-sadness.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/19-sadness.jpg" alt="Sadness 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/13-sadness.jpg" alt="Generic prompt vs detailed performance direction — Sadness" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The inner corners of the eyebrows pull up and together, the mouth corners drag down, the chin trembles once, and the gaze sinks as the head lowers. A slow blink and hard swallow fail to change the expression.
 
@@ -306,6 +360,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/20-guilt.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/20-guilt.jpg" alt="Guilt 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/14-guilt.jpg" alt="Generic prompt vs detailed performance direction — Guilt" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The mouth opens but no words come. The eyes slide down and away, the head lowers, a hard swallow moves through the throat, and one hand reaches to the back of the neck. The gaze stays on the floor.
 
@@ -322,6 +380,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/05-disgust.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/05-disgust.jpg" alt="Disgust 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/15-disgust.jpg" alt="Generic prompt vs detailed performance direction — Disgust" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The nose wrinkles hard and pulls the upper lip upward, the eyes squint nearly shut, the chin draws in, and the head recoils and turns away. The revolted expression holds.
 
@@ -338,6 +400,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/08-eye-roll.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/08-eye-roll.jpg" alt="Eye Roll 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/16-eye-roll.jpg" alt="Generic prompt vs detailed performance direction — Eye Roll" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes roll in a full, slow arc while the head tilts with the movement. Air pushes out through the nose, the eyes return with lowered lids, and a flat stare holds before the gaze turns away.
 
@@ -351,6 +417,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/10-flirtation.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/10-flirtation.jpg" alt="Flirtation 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/17-flirtation.jpg" alt="Generic prompt vs detailed performance direction — Flirtation" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The chin lowers, the gaze returns with a slow, deliberate blink, and a warm, playful half-smile grows at one corner of the mouth. The expression holds without rushing or breaking eye contact.
 
@@ -364,6 +434,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/11-smug-gloating.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/11-smug-gloating.jpg" alt="Smug / Gloating 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/18-smug-gloating.jpg" alt="Generic prompt vs detailed performance direction — Smug / Gloating" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyelids lower, one corner of the mouth pulls into a slow smirk, the eyebrows rise once and settle, and the chin lifts slightly. The smirk holds through unbroken eye contact.
 
@@ -377,6 +451,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/21-embarrassment.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/21-embarrassment.jpg" alt="Embarrassment 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/19-embarrassment.jpg" alt="Generic prompt vs detailed performance direction — Embarrassment" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > Color rises in the cheeks, the eyes dart down and to the side, and an awkward pressed-lip half-smile appears. The head ducks and turns away while one hand rises near the mouth. The eyes stay lowered.
 
@@ -390,6 +468,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/25-nervous-fake-smile.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/25-nervous-fake-smile.jpg" alt="Nervous Fake Smile 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/20-nervous-fake-smile.jpg" alt="Generic prompt vs detailed performance direction — Nervous Fake Smile" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The mouth stretches into a smile while the eyes stay flat, with no crinkling at the corners. Blinking speeds up, the throat makes a hard swallow, and the gaze drops before the strained smile snaps back into place.
 
@@ -406,6 +488,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/16-determination.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/16-determination.jpg" alt="Determination 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/21-determination.jpg" alt="Generic prompt vs detailed performance direction — Determination" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes lift and lock forward, a deep breath expands the chest, the jaw sets visibly at the hinge, the eyes narrow, and the shoulders roll back. One sharp nod completes the change.
 
@@ -419,6 +505,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/24-pride.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/24-pride.jpg" alt="Pride 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/22-pride.jpg" alt="Generic prompt vs detailed performance direction — Pride" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The chin lifts, the chest expands, and a closed-lip smile spreads slowly and evenly. The shoulders roll back, followed by one slow, satisfied blink. The smile remains as the arms fold.
 
@@ -435,6 +525,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/07-pain-wince.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/07-pain-wince.jpg" alt="Pain / Wince 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/23-pain-wince.jpg" alt="Generic prompt vs detailed performance direction — Pain / Wince" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyes clamp shut, the teeth bare in a hard grimace, the head snaps to one side, and one shoulder rises toward the ear. The face stays contracted before easing only slightly.
 
@@ -448,6 +542,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/12-boredom.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/12-boredom.jpg" alt="Boredom 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/24-boredom.jpg" alt="Generic prompt vs detailed performance direction — Boredom" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyelids grow heavy, the gaze drifts and loses focus, a slow blink lasts too long, the jaw slackens, and a long sigh lowers the chest. The head sinks and the body settles into stillness.
 
@@ -461,6 +559,10 @@ The eyebrows stay knitted, the eyes flick rapidly from side to side, the lower l
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/useneospark/ai-video-emotion-guide@main/videos/22-exhaustion.mp4"><img src="https://raw.githubusercontent.com/useneospark/ai-video-emotion-guide/main/assets/posters/22-exhaustion.jpg" alt="Exhaustion 表演视频" width="480"></a>
 </p>
+<p align="center">
+  <img src="assets/comparisons/25-exhaustion.jpg" alt="Generic prompt vs detailed performance direction — Exhaustion" width="720">
+</p>
+<p align="center"><sub>⬅️ 通用提示词 · 详细表演导演指令 ➡️</sub></p>
 
 > The eyelids drag downward, a long blink stays closed too long, the head drifts down and lifts again slowly, the jaw hangs slack, and one long breath empties out. The eyes reopen only halfway.
 
